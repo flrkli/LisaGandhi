@@ -1,10 +1,17 @@
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
 \contentsline {chapter}{\numberline {2}Gandhi's Life}{2}{chapter.2}
-\contentsline {section}{\numberline {2.1}Gandhi\GenericError {(inputenc) }{Package inputenc Error: Keyboard character used is undefined\MessageBreak in inputencoding `latin1'}{See the inputenc package documentation for explanation.}{You need to provide a definition with \def \let } } 
-\contentsline {section}{\numberline {2.2}Gandhi\GenericError {(inputenc) }{Package inputenc Error: Keyboard character used is undefined\MessageBreak in inputencoding `latin1'}{See the inputenc package documentation for explanation.}{You need to provide a definition with \def \let } } 
+\contentsline {section}{\numberline {2.1}Gandhi's Childhood and Studies in London}{2}{section.2.1}
+\contentsline {section}{\numberline {2.2}Gandhi's Life in South-Africa }{3}{section.2.2}
 \contentsline {section}{\numberline {2.3}Gandhi Back in India}{5}{section.2.3}
-\contentsline {paragraph}{The Situations of the Farmers and Gandhi\GenericError {(inputenc) }{Package inputenc Error: Keyboard character used is undefined\MessageBreak in inputencoding `latin1'}{See the inputenc package documentation for explanation.}{You need to provide a definition with \def 1 ${}\def \begingroup \endgroup \global \let {o}\@inpenc@test \bgroup \uccode `\~\MessageBreak \uppercase {\egroup \def ~}{\IeC {o}}r \@inpenc@test \bgroup \uccode `\~b\uppercase {\egroup \def ~}efore using this key.}s Ideal Conception of them Living in Ashrams}{5}{section*.2}
-\contentsline {chapter}{\numberline {3}Gandhi's Spirit and Principles}{6}{chapter.3}
-\contentsline {chapter}{\numberline {4}Gandhi\GenericError {(inputenc) }{Package inputenc Error: Keyboard character used is undefined\MessageBreak in inputencoding `latin1'}{See the inputenc package documentation for explanation.}{You need to provide a definition with \def 1 ${}\def \begingroup \endgroup \global \let {o}\@inpenc@test \bgroup \uccode `\~\MessageBreak \uppercase {\egroup \def ~}{\IeC {o}}r \@inpenc@test \bgroup \uccode `\~b\uppercase {\egroup \def ~}efore using this key.}s Influence on Martin Luther King}{7}{chapter.4}
-\contentsline {chapter}{\numberline {5}R\'esum\'e}{8}{chapter.5}
-\contentsline {chapter}{Bibliography}{9}{section*.3}
+\contentsline {paragraph}{The Situations of the Farmers and Gandhi's Ideal Conception of them Living in Ashrams}{5}{section*.2}
+\contentsline {paragraph}{The Untouchables}{6}{section*.3}
+\contentsline {paragraph}{Civil Disobedience}{6}{section*.4}
+\contentsline {paragraph}{Gandhi's goals in his Movement to Independence}{7}{section*.5}
+\contentsline {paragraph}{Salt March}{7}{section*.6}
+\contentsline {paragraph}{Britain Invites Gandhi}{8}{section*.7}
+\contentsline {paragraph}{The Role of the Indian Parties During the Independence Movement}{8}{section*.8}
+\contentsline {paragraph}{India's Independence and Separation into Two States}{9}{section*.9}
+\contentsline {chapter}{\numberline {3}Gandhi's Spirit and Principles}{10}{chapter.3}
+\contentsline {chapter}{\numberline {4}Gandhi\GenericError {(inputenc) }{Package inputenc Error: Keyboard character used is undefined\MessageBreak in inputencoding `latin1'}{See the inputenc package documentation for explanation.}{You need to provide a definition with \def 1 ${}\def \begingroup \endgroup \global \let {o}\@inpenc@test \bgroup \uccode `\~\MessageBreak \uppercase {\egroup \def ~}{\IeC {o}}r \@inpenc@test \bgroup \uccode `\~b\uppercase {\egroup \def ~}efore using this key.}s Influence on Martin Luther King}{11}{chapter.4}
+\contentsline {chapter}{\numberline {5}R\'esum\'e}{12}{chapter.5}
+\contentsline {chapter}{Bibliography}{13}{section*.10}

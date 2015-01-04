@@ -1,4 +1,4 @@
-\begin{thebibliography}{Bra15b}
+\begin{thebibliography}{oTEB14}
   \providebibliographyfont{name}{}%
   \providebibliographyfont{lastname}{}%
   \providebibliographyfont{title}{\emph}%
@@ -13,25 +13,49 @@
   \expandafter\btxselectlanguage\expandafter {\btxfallbacklanguage}
 
 \expandafter\btxselectlanguage\expandafter {\btxfallbacklanguage}
-\bibitem [{Bra15a}]{brainyquoteGandhiLoveLife}
+\bibitem [{ago14}]{agora2014}
+\btxtitlefont {\btxifchangecase {Leben und wirken gandhis}{Leben und Wirken
+  Gandhis}}, 2014.
+\newblock {\latintext
+  \btxurlfont{http://www.dadalos-d.org/deutsch/vorbilder/vorbilder/gandhi/leben.htm#9}},
+  accessed December 12, 2014.
+
+\bibitem [{Bra14a}]{brainyquoteGandhiLoveLife}
 \btxnamefont {\btxlastnamefont {BrainyQuote.com}}\btxauthorcolon\ \btxtitlefont
-  {\btxifchangecase {Mahatma gandhi}{Mahatma Gandhi}}, 2015.
+  {\btxifchangecase {Mahatma gandhi}{Mahatma Gandhi}}, 2014.
 \newblock {\latintext
   \btxurlfont{http://www.brainyquote.com/quotes/quotes/m/mahatmagan100717.html}},
-  accessed January 4, 2015.
+  accessed December 8, 2014.
 
-\bibitem [{Bra15b}]{brainyquoteGandhiNonViolance}
+\bibitem [{Bra14b}]{brainyquoteGandhiNonViolance}
 \btxnamefont {\btxlastnamefont {BrainyQuote.com}}\btxauthorcolon\ \btxtitlefont
-  {\btxifchangecase {Mahatma gandhi}{Mahatma Gandhi}}, 2015.
+  {\btxifchangecase {Mahatma gandhi}{Mahatma Gandhi}}, 2014.
 \newblock {\latintext
   \btxurlfont{http://www.brainyquote.com/quotes/quotes/m/mahatmagan166284.html}},
-  accessed January 4, 2015.
+  accessed December 8, 2014.
+
+\bibitem [{DF}]{dharampal2010}
+\btxnamefont {\btxlastnamefont {Dharampal-Frick},~G.and~Ludwig,
+  M.}\btxauthorcolon\ \btxtitlefont {\btxifchangecase {Die kolonialisierung
+  indiens und der weg in die unabhängigkeit}{Die Kolonialisierung Indiens und
+  der Weg in die Unabhängigkeit}}.
+\newblock \Btxinlong {}\ \btxtitlefont {Der Bürger im Staat}, \btxpageslong {}\
+  148--156. \btxpublisherfont {Südasien-Institut der Universität Heidelberg}.
+\newblock {\latintext
+  \btxurlfont{http://archiv.ub.uni-heidelberg.de/savifadok/volltexte/2010/1162}}.
 
 \bibitem [{Die08}]{dietrich2008martin}
 \btxnamefont {\btxlastnamefont {Dietrich}, T.}\btxauthorcolon\ \btxtitlefont
   {Martin Luther King}.
 \newblock Profile (UTB). \btxpublisherfont {UTB GmbH}, 2008\ifbtxprintISBN {,
   \mbox{\btxISBN~\btxISBNfont {9783825230234}}}.
+
+\bibitem [{fri14}]{friedenFragen2014}
+\btxtitlefont {\btxifchangecase {Mahatma gandhi (1869-1948)}{Mahatma Gandhi
+  (1869-1948)}}, 2014.
+\newblock {\latintext
+  \btxurlfont{http://www.frieden-fragen.de/friedensmacher_weltweit/mahatma_gandhi_indien_gewaltfreie_aktion.html}},
+  accessed December 10, 2014.
 
 \bibitem [{Gan30}]{gandhi1930}
 \btxnamefont {\btxlastnamefont {Gandhi}, M.}\btxauthorcolon\ \btxtitlefont
@@ -46,13 +70,29 @@
 \newblock \btxpublisherfont {Ueberreuter}, 1983\ifbtxprintISBN {,
   \mbox{\btxISBN~\btxISBNfont {9783800031887}}}.
 
-\bibitem [{H{\"o}p01}]{höpken2001gewaltfreiheit}
+\bibitem [{H{\"o}p01}]{hoepken2001gewaltfreiheit}
 \btxnamefont {\btxlastnamefont {H{\"o}pken}, S.}\btxauthorcolon\ \btxtitlefont
   {Gewaltfreiheit und Dialog: die Erziehungskonzeption Paulo Freires und
   Mahatma Gandhis}.
 \newblock P{\"a}dagogische Reihe. \btxpublisherfont {Verlag Dialogische
   Erziehung}, 2001\ifbtxprintISBN {, \mbox{\btxISBN~\btxISBNfont
   {9783934129139}}}.
+
+\bibitem [{kon14}]{konradin2014}
+\btxtitlefont {\btxifchangecase {Indischer nationalkongress}{Indischer
+  Nationalkongress}}, 2014.
+\newblock {\latintext
+  \btxurlfont{http://www.wissen.de/lexikon/indischer-nationalkongress}},
+  accessed December 12, 2014.
+
+\bibitem [{oTEB14}]{britannica2014}
+\btxnamefont {\btxlastnamefont {The Encyclopædia~Britannica},
+  The\btxfnamespacelong Editors~of}\btxauthorcolon\ \btxtitlefont
+  {\btxifchangecase {Indian national congress}{Indian National Congress}},
+  2014.
+\newblock {\latintext
+  \btxurlfont{http://www.britannica.com/EBchecked/topic/285841/Indian-National-Congress}},
+  accessed December 13, 2014.
 
 \bibitem [{Rot03}]{rothermund2003gandhi}
 \btxnamefont {\btxlastnamefont {Rothermund}, D.}\btxauthorcolon\ \btxtitlefont
@@ -65,6 +105,13 @@
 \newblock \btxpublisherfont {School Scout}, 2001.
 \newblock {\latintext
   \btxurlfont{http://www4.onleihe.de/lb/frontend/mediaInfo,0-0-34980596-100-0-0-0-0-0-0-0.html}}.
+
+\bibitem [{wor}]{worldAffairs2014}
+\btxtitlefont {\btxifchangecase {Gandhi – savior of harijans}{Gandhi – Savior
+  of Harijans}}.
+\newblock {\latintext
+  \btxurlfont{https://www.world-affairs.org/wp-content/uploads/2012/03/3rd-5th_firstplace_karthikmeiyappan.pdf}},
+  accessed December 12, 2014.
 
 \bibitem [{Zit03}]{zitelmann2003keiner}
 \btxnamefont {\btxlastnamefont {Zitelmann}, A.}\btxauthorcolon\ \btxtitlefont
