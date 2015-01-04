@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2013.1.3)  4 JAN 2015 20:55
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2013.1.3)  5 JAN 2015 00:16
 entering extended mode
 **C:/Users/Lisa/Documents/PH/ph*LuBu/englisch*Modul*3/LisaGandhi/Thesis/thesis.tex
 ("C:/Users/Lisa/Documents/PH/ph LuBu/englisch Modul 3/LisaGandhi/Thesis/thesis.tex"
@@ -603,20 +603,6 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 3.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 3.
-
-
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc) in inputencoding `latin1'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.15 ...ence on Martin Luther King}{11}{chapter.4}
-                                                  
-You need to provide a definition with \def 1 ${}\def \begingroup \endgroup \global \let {o}\@inpenc@test \bgroup \uccode `\~
-\uppercase {\egroup \def ~}{\IeC {o}}r \@inpenc@test \bgroup \uccode `\~b\uppercase {\egroup \def ~}efore using this key.
-
 )
 \tf@toc=\write5
 pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has been already used, duplicate ignored
@@ -974,21 +960,9 @@ l.1 \chapter{Gandhi's Spirit and Principles}
                                             
 I'm ignoring this; it doesn't match any \if.
 
-) ("C:\Users\Lisa\Documents\PH\ph LuBu\englisch Modul 3\LisaGandhi\Thesis\GandhiKing/GandhiKing.tex" [10
+[10
 
 ]
-Chapter 4.
-! Undefined control sequence.
-\@makechapterhead ...mdepth >\m@ne \if@mainmatter 
-                                                  \savebox {\chapno }{\chapt...
-l.1 ...r{Gandhi’s Influence on Martin Luther King}
-                                                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
 
 ! Package inputenc Error: Keyboard character used is undefined
 (inputenc)                in inputencoding `latin1'.
@@ -997,42 +971,269 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1 ...r{Gandhi’s Influence on Martin Luther King}
-                                                  
+l.15 ...harisma of Gandhi" \todo{source?}. Gandhi‘
+                                                  s fasting therefore change...
 You need to provide a definition with \DeclareInputText 
 or \DeclareInputMath before using this key.
+
+! Undefined control sequence.
+\f@ncyolh ->\headfont 
+                      \nouppercase {\rightmark }\strut 
+l.21 
+     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\f@ncyorh ->{\headfont 
+                       \thepage }\strut 
+l.21 
+     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[11]
+! Undefined control sequence.
+\f@ncyolh ->\headfont 
+                      \nouppercase {\rightmark }\strut 
+l.28 
+     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\f@ncyorh ->{\headfont 
+                       \thepage }\strut 
+l.28 
+     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[12]) ("C:\Users\Lisa\Documents\PH\ph LuBu\englisch Modul 3\LisaGandhi\Thesis\GandhiKing/GandhiKing.tex"
+! Undefined control sequence.
+\f@ncyolh ->\headfont 
+                      \nouppercase {\rightmark }\strut 
+l.1 \chapter
+            {Gandhi's Influence on Martin Luther King}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\f@ncyorh ->{\headfont 
+                       \thepage }\strut 
+l.1 \chapter
+            {Gandhi's Influence on Martin Luther King}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[13]
+Chapter 4.
+! Undefined control sequence.
+\@makechapterhead ...mdepth >\m@ne \if@mainmatter 
+                                                  \savebox {\chapno }{\chapt...
+l.1 ...r{Gandhi's Influence on Martin Luther King}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
 ! Extra \fi.
 \Hy@org@chapter ...terhead {#2}\@afterheading \fi 
                                                   
-l.1 ...r{Gandhi’s Influence on Martin Luther King}
+l.1 ...r{Gandhi's Influence on Martin Luther King}
                                                   
 I'm ignoring this; it doesn't match any \if.
 
-) ("C:\Users\Lisa\Documents\PH\ph LuBu\englisch Modul 3\LisaGandhi\Thesis\Resume/Resume.tex" [11
-
-
-! Use of \\flushsubcaptionlistentries doesn't match its definition.
-\DeclareInputText #1#2->\def \reserved@a ##
-                                           1 ${}\def \reserved@b {#2}\ifcat ...
-l.1 \chapter
-            {Résumé}
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
-
-! Use of \\flushsubcaptionlistentries doesn't match its definition.
-<inserted text> m
-                 acro:->\\flushsubcaptionlistentries [{user}]
-l.1 \chapter
-            {Résumé}
-If you say, e.g., `\def\a1{...}', then you must always
-put `1' after `\a', since control sequence names are
-made up of letters only. The macro here has not been
-followed by the required stuff, so I'm ignoring it.
+[14
 
 ]
+! Undefined control sequence.
+\f@ncyolh ->\headfont 
+                      \nouppercase {\rightmark }\strut 
+l.24 A
+      ccording to Dietrich, King was even more enthusiastic after he had rea...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\f@ncyorh ->{\headfont 
+                       \thepage }\strut 
+l.24 A
+      ccording to Dietrich, King was even more enthusiastic after he had rea...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[15]
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `latin1'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 ...ein gandhi aus ihm… Keiner dreht mich um)}
+                                                  .
+You need to provide a definition with \DeclareInputText 
+or \DeclareInputMath before using this key.
+
+! Undefined control sequence.
+\f@ncyolh ->\headfont 
+                      \nouppercase {\rightmark }\strut 
+l.35 
+     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\f@ncyorh ->{\headfont 
+                       \thepage }\strut 
+l.35 
+     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[16]
+! Undefined control sequence.
+\f@ncyolh ->\headfont 
+                      \nouppercase {\rightmark }\strut 
+l.47 
+     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\f@ncyorh ->{\headfont 
+                       \thepage }\strut 
+l.47 
+     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[17]
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `latin1'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60 ...us speech, beginning with "I have a dream…
+                                                  ". This famous beginning o...
+You need to provide a definition with \DeclareInputText 
+or \DeclareInputMath before using this key.
+
+! Undefined control sequence.
+\f@ncyolh ->\headfont 
+                      \nouppercase {\rightmark }\strut 
+l.61 
+     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\f@ncyorh ->{\headfont 
+                       \thepage }\strut 
+l.61 
+     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[18]
+
+LaTeX Warning: Citation `.' on page 19 undefined on input line 64.
+
+! Undefined control sequence.
+\f@ncyolh ->\headfont 
+                      \nouppercase {\rightmark }\strut 
+l.69 
+     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\f@ncyorh ->{\headfont 
+                       \thepage }\strut 
+l.69 
+     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[19]) ("C:\Users\Lisa\Documents\PH\ph LuBu\englisch Modul 3\LisaGandhi\Thesis\Resume/Resume.tex"
+! Undefined control sequence.
+\f@ncyolh ->\headfont 
+                      \nouppercase {\rightmark }\strut 
+l.1 \chapter
+            {Résumé}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\f@ncyorh ->{\headfont 
+                       \thepage }\strut 
+l.1 \chapter
+            {Résumé}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[20]
 Chapter 5.
 ! Undefined control sequence.
 \@makechapterhead ...mdepth >\m@ne \if@mainmatter 
@@ -1052,9 +1253,32 @@ l.1 \chapter{Résumé}
                     
 I'm ignoring this; it doesn't match any \if.
 
-) [12
+) [21
 
-] ("C:\Users\Lisa\Documents\PH\ph LuBu\englisch Modul 3\LisaGandhi\Thesis\thesis.bbl"
+]
+! Undefined control sequence.
+\f@ncyolh ->\headfont 
+                      \nouppercase {\rightmark }\strut 
+l.130 \cleardoublepage
+                      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\f@ncyorh ->{\headfont 
+                       \thepage }\strut 
+l.130 \cleardoublepage
+                      
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[22] ("C:\Users\Lisa\Documents\PH\ph LuBu\englisch Modul 3\LisaGandhi\Thesis\thesis.bbl"
 babelbib: Using the BibTeX style's default font for `name'.
 babelbib: Using the BibTeX style's default font for `lastname'.
 babelbib: Using the BibTeX style's default font for `title'.
@@ -1066,28 +1290,75 @@ babelbib: Using the BibTeX style's default font for `ISBN'.
 babelbib: Using the BibTeX style's default font for `ISSN'.
 babelbib: Using the BibTeX style's default font for `url'.
 babelbib: Using the BibTeX style's default font for `numeral'.
-LaTeX Font Info:    Try loading font information for T1+aett on input line 20.
+LaTeX Font Info:    Try loading font information for T1+aett on input line 19.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ae\t1aett.fd"
 File: t1aett.fd 1997/11/16 Font definitions for T1/aett.
 )
-Underfull \hbox (badness 2521) in paragraph at lines 18--22
+Underfull \hbox (badness 5985) in paragraph at lines 17--21
+[]\T1/aer/m/it/12 13th Amend-ment\T1/aer/m/n/12 .  []$\T1/aett/m/n/12 http : / / www . law . cornell . edu / constitution /
+ []
+
+
+Underfull \hbox (badness 2521) in paragraph at lines 29--33
 []\T1/aer/m/it/12 Leben und Wir-ken Gand-his\T1/aer/m/n/12 , 2014.  []$\T1/aett/m/n/12 http : / / www . dadalos-[]d . org /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 18--22
+Underfull \hbox (badness 10000) in paragraph at lines 29--33
 \T1/aett/m/n/12 deutsch / vorbilder / vorbilder / gandhi / leben . htm # 9$[]\T1/aer/m/n/12 , ac-ces-sed De-
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 55--59
-\T1/aett/m/n/12 friedensmacher _ weltweit / mahatma _ gandhi _ indien _ gewaltfreie _
- []
-
-[13
+[23
 
 
 ]
+Underfull \hbox (badness 10000) in paragraph at lines 89--93
+\T1/aett/m/n/12 friedensmacher _ weltweit / mahatma _ gandhi _ indien _ gewaltfreie _
+ []
+
+
+Underfull \hbox (badness 5345) in paragraph at lines 96--100
+[]\T1/aer/m/it/12 Das Le-ben und Wir-ken von Ma-h-at-ma Gand-hi\T1/aer/m/n/12 .  []$\T1/aett/m/n/12 http : / / www .
+ []
+
+
+Underfull \hbox (badness 5417) in paragraph at lines 132--136
+[]\T1/aer/m/it/12 Martin Lu-ther King, Jr. - I Ha-ve a Dream\T1/aer/m/n/12 .  []$\T1/aett/m/n/12 http : / / www .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--136
+\T1/aett/m/n/12 americanrhetoric . com / speeches / mlkihaveadream . htm # sthash .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--149
+[]\T1/aer/m/it/12 Martin Lu-ther King\T1/aer/m/n/12 , 2014.  []$\T1/aett/m/n/12 http : / / www . wissen . de /
+ []
+
+! Undefined control sequence.
+\f@ncyolh ->\headfont 
+                      \nouppercase {\rightmark }\strut 
+l.179 \bibitem [{sch01}]{schoolscout2001}
+                                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\f@ncyorh ->{\headfont 
+                       \thepage }\strut 
+l.179 \bibitem [{sch01}]{schoolscout2001}
+                                         
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[24]
 
 ! Package inputenc Error: Keyboard character used is undefined
 (inputenc)                in inputencoding `latin1'.
@@ -1096,23 +1367,23 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.111   of Harijans}}
+l.200   of Harijans}}
                      .
 You need to provide a definition with \DeclareInputText 
 or \DeclareInputMath before using this key.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 111--115
+Underfull \hbox (badness 10000) in paragraph at lines 200--204
 []\T1/aer/m/it/12 Gandhi  Sa-vi-or of Ha-ri-jans\T1/aer/m/n/12 .  []$\T1/aett/m/n/12 https : / / www . world-[]affairs .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 111--115
+Underfull \hbox (badness 10000) in paragraph at lines 200--204
 \T1/aett/m/n/12 org / wp-[]content / uploads / 2012 / 03 / 3rd-[]5th _ firstplace _
  []
 
 
-Underfull \hbox (badness 1852) in paragraph at lines 117--121
+Underfull \hbox (badness 1852) in paragraph at lines 206--210
 []\T1/aer/m/n/12 Zitelmann, A.: \T1/aer/m/it/12 "Kei-ner dreht mich um": die Le-bens-ge-schich-te des
  []
 
@@ -1141,29 +1412,33 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[14]
+[25]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 145.
  ("C:\Users\Lisa\Documents\PH\ph LuBu\englisch Modul 3\LisaGandhi\Thesis\thesis.aux" ("C:\Users\Lisa\Documents\PH\ph LuBu\englisch Modul 3\LisaGandhi\Thesis\titlepage.aux"))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 145.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 145.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 5EC335D6CFF80CD5594D35F291C5D7B9;628.
+(rerunfilecheck)             Checksum: 4FBB95A6EB9ACDB5C43AFE6ACBA00699;1047.
+
+
+LaTeX Warning: There were undefined references.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 145.
  ) 
 Here is how much of TeX's memory you used:
- 16069 strings out of 494045
- 285973 string characters out of 3145973
- 356282 words of memory out of 3000000
- 18937 multiletter control sequences out of 15000+200000
+ 16124 strings out of 494045
+ 286729 string characters out of 3145973
+ 358812 words of memory out of 3000000
+ 18956 multiletter control sequences out of 15000+200000
  36019 words of font info for 62 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 63i,12n,57p,1805b,723s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 63i,12n,57p,1805b,876s stack positions out of 5000i,500n,10000p,200000b,50000s
 pdfTeX warning (dest): name{cite.hungerb\374hler1983pioniere} has been referenced but does not exist, replaced by a fixed one
 
-{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on thesis.pdf (16 pages, 150384 bytes).
+{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmib10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb>
+Output written on thesis.pdf (27 pages, 223970 bytes).
 PDF statistics:
- 254 PDF objects out of 1000 (max. 8388607)
- 52 named destinations out of 1000 (max. 500000)
- 93 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 433 PDF objects out of 1000 (max. 8388607)
+ 88 named destinations out of 1000 (max. 500000)
+ 133 words of extra memory for PDF output out of 10000 (max. 10000000)
 

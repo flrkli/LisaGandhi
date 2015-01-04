@@ -12,6 +12,18 @@
 \contentsline {paragraph}{The Role of the Indian Parties During the Independence Movement}{8}{section*.8}
 \contentsline {paragraph}{India's Independence and Separation into Two States}{9}{section*.9}
 \contentsline {chapter}{\numberline {3}Gandhi's Spirit and Principles}{10}{chapter.3}
-\contentsline {chapter}{\numberline {4}Gandhi\GenericError {(inputenc) }{Package inputenc Error: Keyboard character used is undefined\MessageBreak in inputencoding `latin1'}{See the inputenc package documentation for explanation.}{You need to provide a definition with \def 1 ${}\def \begingroup \endgroup \global \let {o}\@inpenc@test \bgroup \uccode `\~\MessageBreak \uppercase {\egroup \def ~}{\IeC {o}}r \@inpenc@test \bgroup \uccode `\~b\uppercase {\egroup \def ~}efore using this key.}s Influence on Martin Luther King}{11}{chapter.4}
-\contentsline {chapter}{\numberline {5}R\'esum\'e}{12}{chapter.5}
-\contentsline {chapter}{Bibliography}{13}{section*.10}
+\contentsline {section}{\numberline {3.1}Feasting in Gandhi's Life}{10}{section.3.1}
+\contentsline {section}{\numberline {3.2}His view of truth, non-violence and Civil Disobedience}{12}{section.3.2}
+\contentsline {section}{\numberline {3.3}Gandhi's Simplicity}{13}{section.3.3}
+\contentsline {chapter}{\numberline {4}Gandhi's Influence on Martin Luther King}{14}{chapter.4}
+\contentsline {section}{\numberline {4.1}Widespread Opinions in Literature}{15}{section.4.1}
+\contentsline {paragraph}{Montgomery Bus Boycott 1955}{15}{section*.10}
+\contentsline {paragraph}{Kings First Clash with Gandhi's General Idea and How He Found a Point of Orientation in It}{15}{section*.11}
+\contentsline {paragraph}{King Visited India}{16}{section*.12}
+\contentsline {paragraph}{King Grounded Gandhi's Idea in Christianity}{17}{section*.13}
+\contentsline {paragraph}{King's Speeches with Quotes of Gandhi's Words}{17}{section*.14}
+\contentsline {section}{\numberline {4.2}Self-developed Presumptions}{18}{section.4.2}
+\contentsline {paragraph}{Unstoppability}{18}{section*.15}
+\contentsline {paragraph}{Dreaming}{19}{section*.16}
+\contentsline {chapter}{\numberline {5}R\'esum\'e}{21}{chapter.5}
+\contentsline {chapter}{Bibliography}{23}{section*.17}

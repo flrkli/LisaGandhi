@@ -13,12 +13,31 @@
   \expandafter\btxselectlanguage\expandafter {\btxfallbacklanguage}
 
 \expandafter\btxselectlanguage\expandafter {\btxfallbacklanguage}
+\bibitem [{13a}]{13amendment}
+\btxtitlefont {\btxifchangecase {13th amendment}{13th Amendment}}.
+\newblock {\latintext
+  \btxurlfont{http://www.law.cornell.edu/constitution/amendmentxiii}}, accessed
+  December 20, 2014.
+
+\bibitem [{abo}]{aboutKing}
+\btxtitlefont {\btxifchangecase {About dr. king}{About Dr. King}}.
+\newblock {\latintext \btxurlfont{http://www.thekingcenter.org/about-dr-king}},
+  accessed December 19, 2014.
+
 \bibitem [{ago14}]{agora2014}
 \btxtitlefont {\btxifchangecase {Leben und wirken gandhis}{Leben und Wirken
   Gandhis}}, 2014.
 \newblock {\latintext
   \btxurlfont{http://www.dadalos-d.org/deutsch/vorbilder/vorbilder/gandhi/leben.htm#9}},
   accessed December 12, 2014.
+
+\bibitem [{Bla01}]{blakely2001}
+\btxnamefont {\btxlastnamefont {Blakely}, G.}\btxauthorcolon\ \btxtitlefont
+  {\btxifchangecase {The formative influences on dr. martin luther king,
+  jr.}{The Formative Influences on Dr. Martin Luther King, Jr.}}, 2001.
+\newblock {\latintext
+  \btxurlfont{http://peacemagazine.org/archive/v17n2p21.htm}}, accessed
+  December 19, 2014.
 
 \bibitem [{Bra14a}]{brainyquoteGandhiLoveLife}
 \btxnamefont {\btxlastnamefont {BrainyQuote.com}}\btxauthorcolon\ \btxtitlefont
@@ -33,6 +52,13 @@
 \newblock {\latintext
   \btxurlfont{http://www.brainyquote.com/quotes/quotes/m/mahatmagan166284.html}},
   accessed December 8, 2014.
+
+\bibitem [{Bra14c}]{brainyquoteGandhiChangeWorld}
+\btxnamefont {\btxlastnamefont {BrainyQuote.com}}\btxauthorcolon\ \btxtitlefont
+  {\btxifchangecase {Mahatma gandhi}{Mahatma Gandhi}}, 2014.
+\newblock {\latintext
+  \btxurlfont{http://www.brainyquote.com/quotes/quotes/m/mahatmagan109075.html}},
+  accessed December 15, 2014.
 
 \bibitem [{DF}]{dharampal2010}
 \btxnamefont {\btxlastnamefont {Dharampal-Frick},~G.and~Ludwig,
@@ -50,6 +76,14 @@
 \newblock Profile (UTB). \btxpublisherfont {UTB GmbH}, 2008\ifbtxprintISBN {,
   \mbox{\btxISBN~\btxISBNfont {9783825230234}}}.
 
+\bibitem [{Fei04}]{feiler2004}
+\btxnamefont {\btxlastnamefont {Feiler}, A.}\btxauthorcolon\ \btxtitlefont
+  {\btxifchangecase {Gandhi und sein weg der gewaltfreien
+  konfliktlösung}{Gandhi und sein Weg der gewaltfreien Konfliktlösung}}, 2004.
+\newblock {\latintext
+  \btxurlfont{http://sammelpunkt.philo.at:8080/1092/1/se0405freiler.pdf}},
+  accessed December 16, 2014.
+
 \bibitem [{fri14}]{friedenFragen2014}
 \btxtitlefont {\btxifchangecase {Mahatma gandhi (1869-1948)}{Mahatma Gandhi
   (1869-1948)}}, 2014.
@@ -57,10 +91,25 @@
   \btxurlfont{http://www.frieden-fragen.de/friedensmacher_weltweit/mahatma_gandhi_indien_gewaltfreie_aktion.html}},
   accessed December 10, 2014.
 
+\bibitem [{gan}]{gandhiserve}
+\btxtitlefont {\btxifchangecase {Das leben und wirken von mahatma gandhi}{Das
+  Leben und Wirken von Mahatma Gandhi}}.
+\newblock {\latintext
+  \btxurlfont{http://www.gandhiserve.org/gss/lebenundwirken.html}}, accessed
+  December 15, 2014.
+
 \bibitem [{Gan30}]{gandhi1930}
 \btxnamefont {\btxlastnamefont {Gandhi}, M.}\btxauthorcolon\ \btxtitlefont
   {Mein Leben}.
 \newblock \btxpublisherfont {Insel-Verlag}, 1930.
+
+\bibitem [{gan14}]{gandhiInfoZentrum2014}
+\btxtitlefont {\btxifchangecase {Martin luther king "i have a dream" - gedanken
+  zur gewaltfreiheit -}{Martin Luther King "I have a dream" - Gedanken zur
+  Gewaltfreiheit -}}, 2014.
+\newblock {\latintext
+  \btxurlfont{http://www.nonviolent-resistance.info/exhibitions/ger/king/pg08.htm}},
+  accessed December 21, 2014.
 
 \bibitem [{HJT83}]{hungerbühler1983pioniere}
 \btxnamefont {\btxlastnamefont {Hungerb{\"u}hler}, E.}, \btxnamefont {W.
@@ -78,12 +127,31 @@
   Erziehung}, 2001\ifbtxprintISBN {, \mbox{\btxISBN~\btxISBNfont
   {9783934129139}}}.
 
-\bibitem [{kon14}]{konradin2014}
+\bibitem [{kin}]{kingDreamSpeech}
+\btxtitlefont {\btxifchangecase {Martin luther king, jr. - i have a
+  dream}{Martin Luther King, Jr. - I Have a Dream}}.
+\newblock {\latintext
+  \btxurlfont{http://www.americanrhetoric.com/speeches/mlkihaveadream.htm#sthash.dJDIKyEu.dpuf}},
+  accessed December 22, 2014.
+
+\bibitem [{kon14a}]{konradin2014}
 \btxtitlefont {\btxifchangecase {Indischer nationalkongress}{Indischer
   Nationalkongress}}, 2014.
 \newblock {\latintext
   \btxurlfont{http://www.wissen.de/lexikon/indischer-nationalkongress}},
   accessed December 12, 2014.
+
+\bibitem [{kon14b}]{konradinKing2014}
+\btxtitlefont {\btxifchangecase {Martin luther king}{Martin Luther King}},
+  2014.
+\newblock {\latintext \btxurlfont{http://www.wissen.de/martin-luther-king}},
+  accessed December 19, 2014.
+
+\bibitem [{Man05}]{manheimer2005martin}
+\btxnamefont {\btxlastnamefont {Manheimer}, A.S.}\btxauthorcolon\ \btxtitlefont
+  {Martin Luther King Jr: Dreaming of Equality}.
+\newblock Trailblazer biography. \btxpublisherfont {Carolrhoda Books},
+  2005\ifbtxprintISBN {, \mbox{\btxISBN~\btxISBNfont {9781575056272}}}.
 
 \bibitem [{oTEB14}]{britannica2014}
 \btxnamefont {\btxlastnamefont {The Encyclopædia~Britannica},
@@ -100,11 +168,32 @@
 \newblock Beck Reihe. \btxpublisherfont {Beck}, 2003\ifbtxprintISBN {,
   \mbox{\btxISBN~\btxISBNfont {9783406480225}}}.
 
+\bibitem [{San}]{santhanam}
+\btxnamefont {\btxlastnamefont {Santhanam}, K.}\btxauthorcolon\ \btxtitlefont
+  {\btxifchangecase {Basic principles of gandhism}{Basic Principles Of
+  Gandhism}}.
+\newblock {\latintext
+  \btxurlfont{http://www.mkgandhi.org/g_relevance/chap26.htm}}, accessed
+  December 16, 2014.
+
 \bibitem [{sch01}]{schoolscout2001}
 \btxtitlefont {Mahatma Gandhi}.
 \newblock \btxpublisherfont {School Scout}, 2001.
 \newblock {\latintext
   \btxurlfont{http://www4.onleihe.de/lb/frontend/mediaInfo,0-0-34980596-100-0-0-0-0-0-0-0.html}}.
+
+\bibitem [{Sun03}]{sunnemark2003ring}
+\btxnamefont {\btxlastnamefont {Sunnemark}, F.}\btxauthorcolon\ \btxtitlefont
+  {Ring Out Freedom!: The Voice of Martin Luther King, Jr. and the Making of
+  the Civil Rights Movement}.
+\newblock Ring Out Freedom! \btxpublisherfont {Indiana University Press},
+  2003\ifbtxprintISBN {, \mbox{\btxISBN~\btxISBNfont {9780253110817}}}.
+
+\bibitem [{Tis12}]{tischauser2012jim}
+\btxnamefont {\btxlastnamefont {Tischauser}, L.V.}\btxauthorcolon\
+  \btxtitlefont {Jim Crow Laws}.
+\newblock Landmarks of the American Mosaic. \btxpublisherfont {ABC-CLIO},
+  2012\ifbtxprintISBN {, \mbox{\btxISBN~\btxISBNfont {9780313386091}}}.
 
 \bibitem [{wor}]{worldAffairs2014}
 \btxtitlefont {\btxifchangecase {Gandhi – savior of harijans}{Gandhi – Savior

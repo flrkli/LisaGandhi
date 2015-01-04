@@ -2,12 +2,23 @@ This is BibTeX, Version 0.99dThe top-level auxiliary file: C:\Users\Lisa\Documen
 A level-1 auxiliary file: titlepage.aux
 The style file: babalpha.bst
 Database file #1: thesis.bib
+Repeated entry---line 155 of file thesis.bib
+ : @book{dietrich2008martin
+ :                         ,
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "."
 Warning--to sort, need author or key in friedenFragen2014
 Warning--to sort, need author or key in worldAffairs2014
 Warning--to sort, need author or key in agora2014
 Warning--to sort, need author or key in konradin2014
+Warning--to sort, need author or key in gandhiserve
+Warning--to sort, need author or key in 13amendment
+Warning--to sort, need author or key in aboutKing
+Warning--to sort, need author or key in konradinKing2014
+Warning--to sort, need author or key in gandhiInfoZentrum2014
+Warning--to sort, need author or key in kingDreamSpeech
 Warning--to sort, need author, editor, or key in schoolscout2001
-Warning--empty language in agora2014
+Warning--empty language in 13amendment
 Warning--empty year in dharampal2010
 Warning--empty author and editor in schoolscout2001
-(There were 8 warnings)
+(There was 1 error message)
