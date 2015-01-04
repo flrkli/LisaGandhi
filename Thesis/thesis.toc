@@ -1,6 +1,10 @@
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
 \contentsline {chapter}{\numberline {2}Gandhi's Life}{2}{chapter.2}
-\contentsline {chapter}{\numberline {3}Gandhi's Spirit and Principles}{3}{chapter.3}
-\contentsline {chapter}{\numberline {4}Gandhi\GenericError {(inputenc) }{Package inputenc Error: Keyboard character used is undefined\MessageBreak in inputencoding `latin1'}{See the inputenc package documentation for explanation.}{You need to provide a definition with \def \begingroup \endgroup \global \let \par \vfil \penalty -\@M \write \m@ne {}\vbox {}\penalty -\@Mi \global \let } } 
-\contentsline {chapter}{\numberline {5}R\'esum\'e}{5}{chapter.5}
-\contentsline {chapter}{Bibliography}{6}{section*.2}
+\contentsline {section}{\numberline {2.1}Gandhi\GenericError {(inputenc) }{Package inputenc Error: Keyboard character used is undefined\MessageBreak in inputencoding `latin1'}{See the inputenc package documentation for explanation.}{You need to provide a definition with \def \let } } 
+\contentsline {section}{\numberline {2.2}Gandhi\GenericError {(inputenc) }{Package inputenc Error: Keyboard character used is undefined\MessageBreak in inputencoding `latin1'}{See the inputenc package documentation for explanation.}{You need to provide a definition with \def \let } } 
+\contentsline {section}{\numberline {2.3}Gandhi Back in India}{5}{section.2.3}
+\contentsline {paragraph}{The Situations of the Farmers and Gandhi\GenericError {(inputenc) }{Package inputenc Error: Keyboard character used is undefined\MessageBreak in inputencoding `latin1'}{See the inputenc package documentation for explanation.}{You need to provide a definition with \def 1 ${}\def \begingroup \endgroup \global \let {o}\@inpenc@test \bgroup \uccode `\~\MessageBreak \uppercase {\egroup \def ~}{\IeC {o}}r \@inpenc@test \bgroup \uccode `\~b\uppercase {\egroup \def ~}efore using this key.}s Ideal Conception of them Living in Ashrams}{5}{section*.2}
+\contentsline {chapter}{\numberline {3}Gandhi's Spirit and Principles}{6}{chapter.3}
+\contentsline {chapter}{\numberline {4}Gandhi\GenericError {(inputenc) }{Package inputenc Error: Keyboard character used is undefined\MessageBreak in inputencoding `latin1'}{See the inputenc package documentation for explanation.}{You need to provide a definition with \def 1 ${}\def \begingroup \endgroup \global \let {o}\@inpenc@test \bgroup \uccode `\~\MessageBreak \uppercase {\egroup \def ~}{\IeC {o}}r \@inpenc@test \bgroup \uccode `\~b\uppercase {\egroup \def ~}efore using this key.}s Influence on Martin Luther King}{7}{chapter.4}
+\contentsline {chapter}{\numberline {5}R\'esum\'e}{8}{chapter.5}
+\contentsline {chapter}{Bibliography}{9}{section*.3}

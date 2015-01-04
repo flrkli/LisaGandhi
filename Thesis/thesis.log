@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.1.4)  4 JAN 2015 14:40
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2013.1.3)  4 JAN 2015 19:30
 entering extended mode
-**C:/Users/Lenovo/Documents/GitHub/LisaGandhi/Thesis/thesis.tex
-(C:/Users/Lenovo/Documents/GitHub/LisaGandhi/Thesis/thesis.tex
+**C:/Users/Lisa/Documents/PH/ph*LuBu/englisch*Modul*3/LisaGandhi/Thesis/thesis.tex
+("C:/Users/Lisa/Documents/PH/ph LuBu/englisch Modul 3/LisaGandhi/Thesis/thesis.tex"
 LaTeX2e <2011/06/27>
-Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, arabic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, galician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, icelandic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian, lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, ngerman-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, romanian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usenglishmax, welsh, loaded.
-(C:\Users\Lenovo\Documents\GitHub\LisaGandhi\Thesis\thesisclass.cls
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, arabic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, galician, german, german-x-2009-06-19, greek, gujarati, hindi, hungarian, icelandic, indonesian, interlingua, irish, italian, kannada, kurmanji, lao, latin, latvian, lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, ngerman-x-2009-06-19, nynorsk, oriya, panjabi, pinyin, polish, portuguese, romanian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usenglishmax, welsh, loaded.
+("C:\Users\Lisa\Documents\PH\ph LuBu\englisch Modul 3\LisaGandhi\Thesis\thesisclass.cls"
 Document Class: thesisclass 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\report.cls"
 Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
@@ -26,7 +26,7 @@ File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 ) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\german\ngerman.sty" v2.5e 1998-07-08
 Package: ngerman 1998/07/08 v2.5e Support for writing german texts (br)
 \grmnU@D=\dimen103
-ngerman -- \language number for naustrian undefined, default 43 used.
+ngerman -- \language number for naustrian undefined, default 44 used.
 ) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\setspace\setspace.sty"
 Package: setspace 2011/12/19 v6.7a set line spacing
 ) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\fontenc.sty"
@@ -91,13 +91,13 @@ Package `vmargin', V2.2, <1999/06/01>
 \f@ncyO@erf=\skip49
 \f@ncyO@olf=\skip50
 \f@ncyO@orf=\skip51
-) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\url\url.sty"
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ltxmisc\url.sty"
 \Urlmuskip=\muskip10
-Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
 ) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\textpos\textpos.sty"
-Package: textpos 2014/01/03 v1.7j
+Package: textpos 2012/11/13 v1.7i
 
-Package: textpos 2014/01/03 1.7j, absolute positioning of text on the page
+Package: textpos 2012/11/13 1.7i, absolute positioning of text on the page
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ms\everyshi.sty"
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
 )
@@ -117,49 +117,44 @@ Grid set 16 x 16 = 37.38425pt x 52.86877pt
 TextBlockOrigin set to 0pt x 0pt
 ) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\frontendlayer\tikz.sty" ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgf.sty" ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\utilities\pgfrcs.sty" ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common.tex"
 \pgfutil@everybye=\toks18
-\pgfutil@tempdima=\dimen116
-\pgfutil@tempdimb=\dimen117
- ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common-lists.tex")) ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-latex.def"
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-latex.def"
 \pgfutil@abb=\box28
 ) ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgfrcs.code.tex"
-Package: pgfrcs 2013/12/20 v3.0.0 (rcs-revision 1.28)
+Package: pgfrcs 2010/10/25 v2.10 (rcs-revision 1.24)
 ))
-Package: pgf 2013/12/18 v3.0.0 (rcs-revision 1.14)
+Package: pgf 2008/01/15 v2.10 (rcs-revision 1.12)
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgfcore.sty" ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\systemlayer\pgfsys.sty" ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys.code.tex"
-Package: pgfsys 2013/11/30 v3.0.0 (rcs-revision 1.47)
+Package: pgfsys 2010/06/30 v2.10 (rcs-revision 1.37)
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex"
 \pgfkeys@pathtoks=\toks19
 \pgfkeys@temptoks=\toks20
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeysfiltered.code.tex"
 \pgfkeys@tmptoks=\toks21
 ))
-\pgf@x=\dimen118
-\pgf@y=\dimen119
-\pgf@xa=\dimen120
-\pgf@ya=\dimen121
-\pgf@xb=\dimen122
-\pgf@yb=\dimen123
-\pgf@xc=\dimen124
-\pgf@yc=\dimen125
+\pgf@x=\dimen116
+\pgf@y=\dimen117
+\pgf@xa=\dimen118
+\pgf@ya=\dimen119
+\pgf@xb=\dimen120
+\pgf@yb=\dimen121
+\pgf@xc=\dimen122
+\pgf@yc=\dimen123
 \w@pgf@writea=\write3
 \r@pgf@reada=\read1
 \c@pgf@counta=\count89
 \c@pgf@countb=\count90
 \c@pgf@countc=\count91
 \c@pgf@countd=\count92
-\t@pgf@toka=\toks22
-\t@pgf@tokb=\toks23
-\t@pgf@tokc=\toks24
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgf.cfg"
 File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
 )
-Driver file for pgf: pgfsys-pdftex.def
+Package pgfsys Info: Driver file for pgf: pgfsys-pdftex.def on input line 900.
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-pdftex.def"
-File: pgfsys-pdftex.def 2013/07/18  (rcs-revision 1.33)
+File: pgfsys-pdftex.def 2009/05/22  (rcs-revision 1.26)
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-common-pdf.def"
-File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
+File: pgfsys-common-pdf.def 2008/05/19  (rcs-revision 1.10)
 ))) ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex"
-File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+File: pgfsyssoftpath.code.tex 2008/07/18  (rcs-revision 1.7)
 \pgfsyssoftpath@smallbuffer@items=\count93
 \pgfsyssoftpath@bigbuffer@items=\count94
 ) ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex"
@@ -180,126 +175,122 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
 ) ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcore.code.tex"
-Package: pgfcore 2010/04/11 v3.0.0 (rcs-revision 1.7)
+Package: pgfcore 2010/04/11 v2.10 (rcs-revision 1.7)
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex" ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathcalc.code.tex" ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathutil.code.tex") ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathparser.code.tex"
-\pgfmath@dimen=\dimen126
+\pgfmath@dimen=\dimen124
 \pgfmath@count=\count95
 \pgfmath@box=\box29
-\pgfmath@toks=\toks25
-\pgfmath@stack@operand=\toks26
-\pgfmath@stack@operation=\toks27
-) ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.code.tex" ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.basic.code.tex") ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.trigonometric.code.tex") ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.random.code.tex") ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.comparison.code.tex") ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.base.code.tex") ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.round.code.tex") ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.misc.code.tex") ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.integerarithmetics.code.tex"))) ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfloat.code.tex"
+\pgfmath@toks=\toks22
+\pgfmath@stack@operand=\toks23
+\pgfmath@stack@operation=\toks24
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.code.tex" ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.basic.code.tex") ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.trigonometric.code.tex") ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.random.code.tex") ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.comparison.code.tex") ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.base.code.tex") ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.round.code.tex") ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.misc.code.tex"))) ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfloat.code.tex"
 \c@pgfmathroundto@lastzeros=\count96
 )) ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepoints.code.tex"
-File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
-\pgf@picminx=\dimen127
-\pgf@picmaxx=\dimen128
-\pgf@picminy=\dimen129
-\pgf@picmaxy=\dimen130
-\pgf@pathminx=\dimen131
-\pgf@pathmaxx=\dimen132
-\pgf@pathminy=\dimen133
-\pgf@pathmaxy=\dimen134
-\pgf@xx=\dimen135
-\pgf@xy=\dimen136
-\pgf@yx=\dimen137
-\pgf@yy=\dimen138
-\pgf@zx=\dimen139
-\pgf@zy=\dimen140
+File: pgfcorepoints.code.tex 2010/04/09  (rcs-revision 1.20)
+\pgf@picminx=\dimen125
+\pgf@picmaxx=\dimen126
+\pgf@picminy=\dimen127
+\pgf@picmaxy=\dimen128
+\pgf@pathminx=\dimen129
+\pgf@pathmaxx=\dimen130
+\pgf@pathminy=\dimen131
+\pgf@pathmaxy=\dimen132
+\pgf@xx=\dimen133
+\pgf@xy=\dimen134
+\pgf@yx=\dimen135
+\pgf@yy=\dimen136
+\pgf@zx=\dimen137
+\pgf@zy=\dimen138
 ) ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathconstruct.code.tex"
-File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
-\pgf@path@lastx=\dimen141
-\pgf@path@lasty=\dimen142
+File: pgfcorepathconstruct.code.tex 2010/08/03  (rcs-revision 1.24)
+\pgf@path@lastx=\dimen139
+\pgf@path@lasty=\dimen140
 ) ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathusage.code.tex"
-File: pgfcorepathusage.code.tex 2013/12/13  (rcs-revision 1.23)
-\pgf@shorten@end@additional=\dimen143
-\pgf@shorten@start@additional=\dimen144
+File: pgfcorepathusage.code.tex 2008/04/22  (rcs-revision 1.12)
+\pgf@shorten@end@additional=\dimen141
+\pgf@shorten@start@additional=\dimen142
 ) ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorescopes.code.tex"
-File: pgfcorescopes.code.tex 2013/10/09  (rcs-revision 1.44)
+File: pgfcorescopes.code.tex 2010/09/08  (rcs-revision 1.34)
 \pgfpic=\box30
 \pgf@hbox=\box31
 \pgf@layerbox@main=\box32
 \pgf@picture@serial@count=\count97
 ) ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoregraphicstate.code.tex"
-File: pgfcoregraphicstate.code.tex 2013/09/19  (rcs-revision 1.11)
-\pgflinewidth=\dimen145
+File: pgfcoregraphicstate.code.tex 2008/04/22  (rcs-revision 1.9)
+\pgflinewidth=\dimen143
 ) ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretransformations.code.tex"
-File: pgfcoretransformations.code.tex 2013/10/10  (rcs-revision 1.17)
-\pgf@pt@x=\dimen146
-\pgf@pt@y=\dimen147
-\pgf@pt@temp=\dimen148
+File: pgfcoretransformations.code.tex 2009/06/10  (rcs-revision 1.11)
+\pgf@pt@x=\dimen144
+\pgf@pt@y=\dimen145
+\pgf@pt@temp=\dimen146
 ) ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorequick.code.tex"
 File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
 ) ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreobjects.code.tex"
 File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
 ) ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathprocessing.code.tex"
-File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+File: pgfcorepathprocessing.code.tex 2008/10/09  (rcs-revision 1.8)
 ) ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorearrows.code.tex"
-File: pgfcorearrows.code.tex 2013/11/07  (rcs-revision 1.40)
-\pgfarrowsep=\dimen149
+File: pgfcorearrows.code.tex 2008/04/23  (rcs-revision 1.11)
 ) ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreshade.code.tex"
-File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
-\pgf@max=\dimen150
+File: pgfcoreshade.code.tex 2008/11/23  (rcs-revision 1.13)
+\pgf@max=\dimen147
 \pgf@sys@shading@range@num=\count98
 ) ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreimage.code.tex"
-File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+File: pgfcoreimage.code.tex 2010/03/25  (rcs-revision 1.16)
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreexternal.code.tex"
-File: pgfcoreexternal.code.tex 2013/07/15  (rcs-revision 1.20)
+File: pgfcoreexternal.code.tex 2010/09/01  (rcs-revision 1.17)
 \pgfexternal@startupbox=\box33
 )) ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorelayers.code.tex"
-File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+File: pgfcorelayers.code.tex 2010/08/27  (rcs-revision 1.2)
 ) ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretransparency.code.tex"
-File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+File: pgfcoretransparency.code.tex 2008/01/17  (rcs-revision 1.2)
 ) ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepatterns.code.tex"
-File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+File: pgfcorepatterns.code.tex 2009/07/02  (rcs-revision 1.3)
 ))) ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleshapes.code.tex"
-File: pgfmoduleshapes.code.tex 2013/10/31  (rcs-revision 1.34)
+File: pgfmoduleshapes.code.tex 2010/09/09  (rcs-revision 1.13)
 \pgfnodeparttextbox=\box34
 ) ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleplot.code.tex"
-File: pgfmoduleplot.code.tex 2013/07/31  (rcs-revision 1.12)
+File: pgfmoduleplot.code.tex 2010/10/22  (rcs-revision 1.8)
 ) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty"
-Package: pgfcomp-version-0-65 2007/07/03 v3.0.0 (rcs-revision 1.7)
-\pgf@nodesepstart=\dimen151
-\pgf@nodesepend=\dimen152
+Package: pgfcomp-version-0-65 2007/07/03 v2.10 (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen148
+\pgf@nodesepend=\dimen149
 ) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty"
-Package: pgfcomp-version-1-18 2007/07/23 v3.0.0 (rcs-revision 1.1)
-)) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\utilities\pgffor.sty" ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\utilities\pgfkeys.sty" ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex")) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\math\pgfmath.sty" ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex")) ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgffor.code.tex"
-Package: pgffor 2013/12/13 v3.0.0 (rcs-revision 1.25)
- ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex")
-\pgffor@iter=\dimen153
-\pgffor@skip=\dimen154
-\pgffor@stack=\toks28
-\pgffor@toks=\toks29
+Package: pgfcomp-version-1-18 2007/07/23 v2.10 (rcs-revision 1.1)
+)) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\utilities\pgffor.sty" ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pgf\utilities\pgfkeys.sty" ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex")) ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgffor.code.tex"
+Package: pgffor 2010/03/23 v2.10 (rcs-revision 1.18)
+\pgffor@iter=\dimen150
+\pgffor@skip=\dimen151
+\pgffor@stack=\toks25
+\pgffor@toks=\toks26
 )) ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex"
-Package: tikz 2013/12/13 v3.0.0 (rcs-revision 1.142)
+Package: tikz 2010/10/13 v2.10 (rcs-revision 1.76)
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex"
-File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.0 (rcs-revision 1.20)
+File: pgflibraryplothandlers.code.tex 2010/05/31 v2.10 (rcs-revision 1.15)
 \pgf@plot@mark@count=\count99
-\pgfplotmarksize=\dimen155
+\pgfplotmarksize=\dimen152
 )
-\tikz@lastx=\dimen156
-\tikz@lasty=\dimen157
-\tikz@lastxsaved=\dimen158
-\tikz@lastysaved=\dimen159
-\tikzleveldistance=\dimen160
-\tikzsiblingdistance=\dimen161
+\tikz@lastx=\dimen153
+\tikz@lasty=\dimen154
+\tikz@lastxsaved=\dimen155
+\tikz@lastysaved=\dimen156
+\tikzleveldistance=\dimen157
+\tikzsiblingdistance=\dimen158
 \tikz@figbox=\box35
-\tikz@figbox@bg=\box36
-\tikz@tempbox=\box37
-\tikz@tempbox@bg=\box38
+\tikz@tempbox=\box36
 \tikztreelevel=\count100
 \tikznumberofchildren=\count101
 \tikznumberofcurrentchild=\count102
 \tikz@fig@count=\count103
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\modules\pgfmodulematrix.code.tex"
-File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+File: pgfmodulematrix.code.tex 2010/08/24  (rcs-revision 1.4)
 \pgfmatrixcurrentrow=\count104
 \pgfmatrixcurrentcolumn=\count105
 \pgf@matrix@numberofcolumns=\count106
 )
 \tikz@expandcount=\count107
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code.tex"
-File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.0 (rcs-revision 1.2)
+File: tikzlibrarytopaths.code.tex 2008/06/17 v2.10 (rcs-revision 1.2)
 ))) ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.sty"
 Package: babel 2008/07/08 v3.8m The Babel package
 
@@ -313,7 +304,7 @@ Language: english 2005/03/30 v3.3o English support from the babel system
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.def"
 File: babel.def 2008/07/08 v3.8m Babel common definitions
 \babel@savecnt=\count108
-\U@D=\dimen162
+\U@D=\dimen159
 )) ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\ngermanb.ldf"
 Language: ngermanb 2008/07/06 v2.6n new German support from the babel system
 )) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\algorithms\algorithm.sty"
@@ -321,14 +312,14 @@ Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating environ
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count109
-\float@exts=\toks30
-\float@box=\box39
-\@float@everytoks=\toks31
-\@floatcapt=\box40
+\float@exts=\toks27
+\float@box=\box37
+\@float@everytoks=\toks28
+\@floatcapt=\box38
 ) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ifthen.sty"
 Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
 )
-\@float@every@algorithm=\toks32
+\@float@every@algorithm=\toks29
 \c@algorithm=\count110
 ) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\algorithms\algorithmic.sty"
 Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
@@ -342,48 +333,47 @@ Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
 Package: tabularx 1999/01/07 v2.07 `tabularx' package (DPC)
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\array.sty"
 Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
-\col@sep=\dimen163
-\extrarowheight=\dimen164
-\NC@list=\toks33
+\col@sep=\dimen160
+\extrarowheight=\dimen161
+\NC@list=\toks30
 \extratabsurround=\skip54
 \backup@length=\skip55
 )
-\TX@col@width=\dimen165
-\TX@old@table=\dimen166
-\TX@old@col=\dimen167
-\TX@target=\dimen168
-\TX@delta=\dimen169
+\TX@col@width=\dimen162
+\TX@old@table=\dimen163
+\TX@old@col=\dimen164
+\TX@target=\dimen165
+\TX@delta=\dimen166
 \TX@cols=\count115
-\TX@ftn=\toks34
+\TX@ftn=\toks31
 ) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\rotating\rotating.sty"
 Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
 \c@r@tfl@t=\count116
 \rotFPtop=\skip56
 \rotFPbot=\skip57
-\rot@float@box=\box41
-\rot@mess@toks=\toks35
+\rot@float@box=\box39
+\rot@mess@toks=\toks32
 ) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\caption.sty"
-Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+Package: caption 2013/01/06 v3.3 Customizing captions (AR)
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\caption3.sty"
-Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
-Package caption3 Info: TeX engine: e-TeX on input line 57.
-\captionmargin=\dimen170
-\captionmargin@=\dimen171
-\captionwidth=\dimen172
-\caption@tempdima=\dimen173
-\caption@indent=\dimen174
-\caption@parindent=\dimen175
-\caption@hangindent=\dimen176
+Package: caption3 2013/01/06 v1.5 caption3 kernel (AR)
+\captionmargin=\dimen167
+\captionmargin@=\dimen168
+\captionwidth=\dimen169
+\caption@tempdima=\dimen170
+\caption@indent=\dimen171
+\caption@parindent=\dimen172
+\caption@hangindent=\dimen173
 )
 \c@ContinuedFloat=\count117
 Package caption Info: float package is loaded.
 Package caption Info: rotating package is loaded.
 ) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\subcaption.sty"
-Package: subcaption 2013/02/03 v1.1-62 Sub-captions (AR)
+Package: subcaption 2012/04/09 v1.1f Sub-captions (AR)
 \c@subfigure=\count118
 \c@subtable=\count119
 ) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
-Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+Package: hyperref 2012/05/13 v6.82q Hypertext links for LaTeX
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
 Package: hobsub-hyperref 2012/04/25 v1.12 Bundle oberdiek, subset hyperref (HO)
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
@@ -426,51 +416,48 @@ Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
 Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
 ) ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
-) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
-Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
 ) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 )
-\@linkdim=\dimen177
+\@linkdim=\dimen174
 \Hy@linkcounter=\count120
 \Hy@pagecounter=\count121
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
-File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2012/05/13 v6.82q Hyperref: PDFDocEncoding definition (HO)
 )
 \Hy@SavedSpaceFactor=\count122
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
-Package hyperref Info: Option `raiselinks' set `true' on input line 4319.
-Package hyperref Info: Option `bookmarks' set `true' on input line 4319.
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 4319.
-Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 4319.
-Package hyperref Info: Option `hyperindex' set `true' on input line 4319.
-Package hyperref Info: Option `plainpages' set `false' on input line 4319.
-Package hyperref Info: Option `pdfpagelabels' set `true' on input line 4319.
-Package hyperref Info: Option `colorlinks' set `false' on input line 4319.
-Package hyperref Info: Hyper figures OFF on input line 4443.
-Package hyperref Info: Link nesting OFF on input line 4448.
-Package hyperref Info: Hyper index ON on input line 4451.
-Package hyperref Info: Plain pages OFF on input line 4458.
-Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Option `raiselinks' set `true' on input line 3941.
+Package hyperref Info: Option `bookmarks' set `true' on input line 3941.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 3941.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 3941.
+Package hyperref Info: Option `hyperindex' set `true' on input line 3941.
+Package hyperref Info: Option `plainpages' set `false' on input line 3941.
+Package hyperref Info: Option `pdfpagelabels' set `true' on input line 3941.
+Package hyperref Info: Option `colorlinks' set `false' on input line 3941.
+Package hyperref Info: Hyper figures OFF on input line 4062.
+Package hyperref Info: Link nesting OFF on input line 4067.
+Package hyperref Info: Hyper index ON on input line 4070.
+Package hyperref Info: Plain pages OFF on input line 4077.
+Package hyperref Info: Backreferencing OFF on input line 4082.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4688.
+Package hyperref Info: Bookmarks ON on input line 4300.
 \c@Hy@tempcnt=\count123
-LaTeX Info: Redefining \url on input line 5041.
-\XeTeXLinkMargin=\dimen178
+LaTeX Info: Redefining \url on input line 4653.
 \Fld@menulength=\count124
-\Field@Width=\dimen179
-\Fld@charsize=\dimen180
-Package hyperref Info: Hyper figures OFF on input line 6295.
-Package hyperref Info: Link nesting OFF on input line 6300.
-Package hyperref Info: Hyper index ON on input line 6303.
-Package hyperref Info: backreferencing OFF on input line 6310.
-Package hyperref Info: Link coloring OFF on input line 6315.
-Package hyperref Info: Link coloring with OCG OFF on input line 6320.
-Package hyperref Info: PDF/A mode OFF on input line 6325.
-LaTeX Info: Redefining \ref on input line 6365.
-LaTeX Info: Redefining \pageref on input line 6369.
+\Field@Width=\dimen175
+\Fld@charsize=\dimen176
+Package hyperref Info: Hyper figures OFF on input line 5773.
+Package hyperref Info: Link nesting OFF on input line 5778.
+Package hyperref Info: Hyper index ON on input line 5781.
+Package hyperref Info: backreferencing OFF on input line 5788.
+Package hyperref Info: Link coloring OFF on input line 5793.
+Package hyperref Info: Link coloring with OCG OFF on input line 5798.
+Package hyperref Info: PDF/A mode OFF on input line 5803.
+LaTeX Info: Redefining \ref on input line 5843.
+LaTeX Info: Redefining \pageref on input line 5847.
 \Hy@abspage=\count125
 \c@Item=\count126
 \c@Hfootnote=\count127
@@ -479,7 +466,7 @@ LaTeX Info: Redefining \pageref on input line 6369.
 Package hyperref Message: Driver (autodetected): hpdftex.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
-File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+File: hpdftex.def 2012/05/13 v6.82q Hyperref driver for pdfTeX
 \Fld@listcount=\count128
 \c@bookmark@seq@number=\count129
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
@@ -499,8 +486,8 @@ Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is usel
 
 \chapnolen=\skip59
 \chapparlen=\skip60
-\chapno=\box42
-) (C:\Users\Lenovo\Documents\GitHub\LisaGandhi\Thesis\thesis.aux (C:\Users\Lenovo\Documents\GitHub\LisaGandhi\Thesis\titlepage.aux))
+\chapno=\box40
+) ("C:\Users\Lisa\Documents\PH\ph LuBu\englisch Modul 3\LisaGandhi\Thesis\thesis.aux" ("C:\Users\Lisa\Documents\PH\ph LuBu\englisch Modul 3\LisaGandhi\Thesis\titlepage.aux"))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 93.
 LaTeX Font Info:    ... okay on input line 93.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 93.
@@ -518,24 +505,24 @@ LaTeX Font Info:    ... okay on input line 93.
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count131
-\scratchdimen=\dimen181
-\scratchbox=\box43
+\scratchdimen=\dimen177
+\scratchbox=\box41
 \nofMPsegments=\count132
 \nofMParguments=\count133
-\everyMPshowfont=\toks36
+\everyMPshowfont=\toks33
 \MPscratchCnt=\count134
-\MPscratchDim=\dimen182
+\MPscratchDim=\dimen178
 \MPnumerator=\count135
 \makeMPintoPDFobject=\count136
-\everyMPtoPDFconversion=\toks37
+\everyMPtoPDFconversion=\toks34
 ) ABD: EveryShipout initializing macros
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\AtBeginShipoutBox=\box44
+\AtBeginShipoutBox=\box42
 Package hyperref Info: Link coloring OFF on input line 93.
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
-Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
@@ -544,7 +531,7 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 93.
 LaTeX Info: Redefining \pageref on input line 93.
 LaTeX Info: Redefining \nameref on input line 93.
- (C:\Users\Lenovo\Documents\GitHub\LisaGandhi\Thesis\thesis.out) (C:\Users\Lenovo\Documents\GitHub\LisaGandhi\Thesis\thesis.out)
+ ("C:\Users\Lisa\Documents\PH\ph LuBu\englisch Modul 3\LisaGandhi\Thesis\thesis.out") ("C:\Users\Lisa\Documents\PH\ph LuBu\englisch Modul 3\LisaGandhi\Thesis\thesis.out")
 \@outlinefile=\write4
 
 babelbib: Set bibliography fall-back language to ngerman
@@ -575,7 +562,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-(C:\Users\Lenovo\Documents\GitHub\LisaGandhi\Thesis\titlepage.tex
+("C:\Users\Lisa\Documents\PH\ph LuBu\englisch Modul 3\LisaGandhi\Thesis\titlepage.tex"
 LaTeX Font Info:    Try loading font information for T1+phv on input line 32.
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\t1phv.fd"
 File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
@@ -611,72 +598,78 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 [1
 
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]) (C:\Users\Lenovo\Documents\GitHub\LisaGandhi\Thesis\thesis.toc
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]) ("C:\Users\Lisa\Documents\PH\ph LuBu\englisch Modul 3\LisaGandhi\Thesis\thesis.toc"
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc) in inputencoding `latin1'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 \contentsline {section}
+                           {\numberline {2.2}Gandhi\GenericError {(inputenc)...
+You need to provide a definition with \def \let 
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 4.
+! Argument of \contentsline has an extra }.
+<inserted text> 
+                \par 
+l.4 \contentsline {section}
+                           {\numberline {2.2}Gandhi\GenericError {(inputenc)...
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
 Runaway argument?
-{\numberline {4}Gandhi\GenericError {(inputenc) }{Package inputenc Er\ETC.
 ! Paragraph ended before \contentsline was complete.
 <to be read again> 
                    \par 
-l.4 ...def \begingroup \endgroup \global \let \par
-                                                   \vfil \penalty -\@M \writ...
+l.4 \contentsline {section}
+                           {\numberline {2.2}Gandhi\GenericError {(inputenc)...
 I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.4 ...group \global \let \par \vfil \penalty -\@M
-                                                   \write \m@ne {}\vbox {}\p... [1
 
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc) in inputencoding `latin1'.
 
-]
-! Missing control sequence inserted.
-<inserted text> 
-                \inaccessible 
-l.4 ...@ne {}\vbox {}\penalty -\@Mi \global \let }
-                                                   }
-Please don't say `\def cs{...}', say `\def\cs{...}'.
-I've inserted an inaccessible control sequence so that your
-definition will be completed without mixing me up too badly.
-You can recover graciously from this error, if you're
-careful; see exercise 27.2 in The TeXbook.
-
-! Extra }, or forgotten \endgroup.
-l.4 ...e {}\vbox {}\penalty -\@Mi \global \let } }
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
                                                   
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
+l.4 ...ed to provide a definition with \def \let }
+                                                   }
+You need to provide a definition with \def \let 
+
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc) in inputencoding `latin1'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...luence on Martin Luther King}{7}{chapter.4}
+                                                  
+You need to provide a definition with \def 1 ${}\def \begingroup \endgroup \global \let {o}\@inpenc@test \bgroup \uccode `\~
+\uppercase {\egroup \def ~}{\IeC {o}}r \@inpenc@test \bgroup \uccode `\~b\uppercase {\egroup \def ~}efore using this key.
 
 )
 \tf@toc=\write5
-
-! Undefined control sequence.
-\f@ncyolh ->\headfont 
-                      \nouppercase {\rightmark }\strut 
+pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
 l.111 \blankpage
-                
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+                 [1
 
-! Undefined control sequence.
-\f@ncyorh ->{\headfont 
-                       \thepage }\strut 
-l.111 \blankpage
-                
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-[2
 
 ]
 ! Undefined control sequence.
@@ -688,7 +681,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-(C:\Users\Lenovo\Documents\GitHub\LisaGandhi\Thesis\Introduction/Introduction.tex
+("C:\Users\Lisa\Documents\PH\ph LuBu\englisch Modul 3\LisaGandhi\Thesis\Introduction/Introduction.tex"
 Chapter 1.
 ! Undefined control sequence.
 \@makechapterhead ...mdepth >\m@ne \if@mainmatter 
@@ -716,7 +709,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.3 ...andhiLoveLife}. That is only one of Gandhi’
+l.2 ...andhiLoveLife}. That is only one of Gandhi’
                                                   s many quotes which are st...
 You need to provide a definition with \DeclareInputText 
 or \DeclareInputMath before using this key.
@@ -729,8 +722,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.4 ... action in the US was influenced by Gandhi’
-                                                  s vision of the world in m...
+l.5 ... paper deals with the question: How Gandhi’
+                                                  s life, spirit and dream i...
 You need to provide a definition with \DeclareInputText 
 or \DeclareInputMath before using this key.
 
@@ -742,7 +735,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...will be answered by first analyzing Gandhi’
+l.7 ...will be answered by first analyzing Gandhi’
                                                   s life and dream in detail...
 You need to provide a definition with \DeclareInputText 
 or \DeclareInputMath before using this key.
@@ -755,8 +748,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ...ined to show how and in what extend Gandhi’
-                                                  s dream and spirit influen...
+l.7 ... Gandhi lived his dream. Afterwards Gandhi’
+                                                  s obvious influences on Ki...
 You need to provide a definition with \DeclareInputText 
 or \DeclareInputMath before using this key.
 
@@ -768,12 +761,38 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8 ... Gandhi’s dream and spirit influenced King’
-                                                  s work, based on statement...
+l.7 ...ing the view of different authors and King’
+                                                  s direct references about ...
 You need to provide a definition with \DeclareInputText 
 or \DeclareInputMath before using this key.
 
-) (C:\Users\Lenovo\Documents\GitHub\LisaGandhi\Thesis\GandhisLife/GandhisLife.tex [1
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `latin1'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...s are based on similarities between Gandhi’
+                                                  s and King’s movement. At ...
+You need to provide a definition with \DeclareInputText 
+or \DeclareInputMath before using this key.
+
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `latin1'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ... on similarities between Gandhi’s and King’
+                                                  s movement. At the end a s...
+You need to provide a definition with \DeclareInputText 
+or \DeclareInputMath before using this key.
+
+) ("C:\Users\Lisa\Documents\PH\ph LuBu\englisch Modul 3\LisaGandhi\Thesis\GandhisLife/GandhisLife.tex" [1
 
 
 
@@ -797,7 +816,2089 @@ l.1 \chapter{Gandhi's Life}
                            
 I'm ignoring this; it doesn't match any \if.
 
-) (C:\Users\Lenovo\Documents\GitHub\LisaGandhi\Thesis\GandhisSpirit/GandhisSpirit.tex [2
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `latin1'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 ...e first part of the question of how Gandhi’
+                                                  s spirit and dream looked ...
+You need to provide a definition with \DeclareInputText 
+or \DeclareInputMath before using this key.
+
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `latin1'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 ... important to have a closer look at Gandhi’
+                                                  s life. This is necessary ...
+You need to provide a definition with \DeclareInputText 
+or \DeclareInputMath before using this key.
+
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `latin1'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 ...ienced and his principles later on. Gandhi’
+                                                  s life, especially his pol...
+You need to provide a definition with \DeclareInputText 
+or \DeclareInputMath before using this key.
+
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `latin1'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 ...ession about the important steps of Gandhi’
+                                                  s life.
+You need to provide a definition with \DeclareInputText 
+or \DeclareInputMath before using this key.
+
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `latin1'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...n{Gandhi‘s Childhood and Studies in London}
+                                                  
+You need to provide a definition with \DeclareInputText 
+or \DeclareInputMath before using this key.
+
+
+LaTeX Warning: Citation `hoepken2001gewaltfreiheit' on page 2 undefined on input line 5.
+
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `latin1'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ... is  a caste for retailers, because Gandhi’
+                                                  s ancestors used to be ret...
+You need to provide a definition with \DeclareInputText 
+or \DeclareInputMath before using this key.
+
+
+LaTeX Warning: Citation `hoepken2001gewaltfreiheit' on page 2 undefined on input line 5.
+
+
+LaTeX Warning: Citation `hoepken2001gewaltfreiheit' on page 2 undefined on input line 7.
+
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `latin1'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...e in the highest god called Vishnu. Gandhi’
+                                                  s mum influenced the devel...
+You need to provide a definition with \DeclareInputText 
+or \DeclareInputMath before using this key.
+
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `latin1'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...s mum influenced the development of Gandhi’
+                                                  s character very much. She...
+You need to provide a definition with \DeclareInputText 
+or \DeclareInputMath before using this key.
+
+
+LaTeX Warning: Citation `hoepken2001gewaltfreiheit' on page 2 undefined on input line 7.
+
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `latin1'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...30}, what will play a major role in Gandhi’
+                                                  s life later on, too.
+You need to provide a definition with \DeclareInputText 
+or \DeclareInputMath before using this key.
+
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `latin1'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...ragmented into several city states. Gandhi’
+                                                  s father was the premiere ...
+You need to provide a definition with \DeclareInputText 
+or \DeclareInputMath before using this key.
+
+
+LaTeX Warning: Citation `hoepken2001gewaltfreiheit' on page 2 undefined on input line 8.
+
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `latin1'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...s way of living had a big effect on Gandhi’
+                                                  s beliefs and principles. ...
+You need to provide a definition with \DeclareInputText 
+or \DeclareInputMath before using this key.
+
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `latin1'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...on Gandhi’s beliefs and principles. Gandhi’
+                                                  s father did never have th...
+You need to provide a definition with \DeclareInputText 
+or \DeclareInputMath before using this key.
+
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `latin1'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ...ndhi1930}, what will become part of Gandhi’
+                                                  s life later, too.
+You need to provide a definition with \DeclareInputText 
+or \DeclareInputMath before using this key.
+
+
+LaTeX Warning: Citation `hoepken2001gewaltfreiheit' on page 2 undefined on input line 10.
+
+[2
+
+
+! Incomplete \iffalse; all text was ignored after line 11.
+<inserted text> 
+                \fi 
+l.11 
+     
+A forbidden control sequence occurred in skipped text.
+This kind of error happens when you say `\if...' and forget
+the matching `\fi'. I've inserted a `\fi'; this might work.
+
+! Incomplete \iffalse; all text was ignored after line 11.
+<inserted text> 
+                \fi 
+l.11 
+     
+A forbidden control sequence occurred in skipped text.
+This kind of error happens when you say `\if...' and forget
+the matching `\fi'. I've inserted a `\fi'; this might work.
+
+Runaway text?
+\@writefile{toc}{\contentsline {section}{\numberline {2.1}Gandhi\GenericError  \ETC.
+! Forbidden control sequence found while scanning text of \write.
+<inserted text> 
+                }
+l.11 
+     
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
+Runaway text?
+\@writefile{toc}{\contentsline {section}{\numberline {2.1}Gandhi\GenericError  \ETC.
+! Forbidden control sequence found while scanning text of \write.
+<inserted text> 
+                }
+l.11 
+     
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
+Runaway text?
+\@writefile{toc}{\contentsline {section}{\numberline {2.1}Gandhi\GenericError  \ETC.
+! Forbidden control sequence found while scanning text of \write.
+<inserted text> 
+                }
+l.11 
+     
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
+Runaway text?
+\@writefile{toc}{\contentsline {section}{\numberline {2.1}Gandhi\GenericError  \ETC.
+! Forbidden control sequence found while scanning text of \write.
+<inserted text> 
+                }
+l.11 
+     
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
+]
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `latin1'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 \section{Gandhi’s Life in South-Africa }
+                                             
+You need to provide a definition with \DeclareInputText 
+or \DeclareInputMath before using this key.
+
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `latin1'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 In 1893 Gandhi’
+                    s chancery sent him to South-Africa to take over a case....
+You need to provide a definition with \DeclareInputText 
+or \DeclareInputMath before using this key.
+
+
+LaTeX Warning: Citation `hoepken2001gewaltfreiheit' on page 3 undefined on input line 13.
+
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `latin1'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 ...d. His opponents and even the judges didn’
+                                                  t take him serious and qua...
+You need to provide a definition with \DeclareInputText 
+or \DeclareInputMath before using this key.
+
+! Undefined control sequence.
+\f@ncyolh ->\headfont 
+                      \nouppercase {\rightmark }\strut 
+l.22 
+     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! Use of \\bibsenglish doesn't match its definition.
+\DeclareInputText #1#2->\def \reserved@a ##
+                                           1 ${}\def \reserved@b {#2}\ifcat ...
+l.22 
+     
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   {
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   {
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   {
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   {
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   {
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   {
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   }
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   2
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   2
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   }
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   2
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   {
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   {
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   {
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   {
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   {
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   {
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   {
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   {
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   {
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   {
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   {
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   {
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   {
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   {
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   {
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   {
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   {
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   {
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   }
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   2
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   2
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   }
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   2
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   {
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   {
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   {
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   {
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   }
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   }
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   }
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   /
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   2
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   2
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   }
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.22 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Use of \\bibsenglish doesn't match its definition.
+<inserted text> m
+                 acro:->\\bibsenglish [{english}]
+l.22 
+     
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `latin1'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 
+     
+You need to provide a definition with \def 1 ${}\def \def USenglish{english}\def \foreignlanguage{USenglish}{et~al##{}}1{\foreignlanguage{english}{et~al##1{}}}\def \foreignlanguage{USenglish}{et~alii}1{\foreignlanguage{english}{et~alii}}\def \foreignlanguage{USenglish}{and}1{\foreignlanguage{english}{and}}\def \foreignlanguage{USenglish}{and}1{\foreignlanguage{english}{and}}\def ,1{,}\def \foreignlanguage{USenglish}{in}1{\foreignlanguage{english}{in}}\def \foreignlanguage{USenglish}{in}1{\foreignlanguage{english}{in}}\def \foreignlanguage{USenglish}{of}1{\foreignlanguage{english}{of}}\def \foreignlanguage{USenglish}{in}1{\foreignlanguage{english}{in}}\def \foreignlanguage{USenglish}{of}1{\foreignlanguage{english}{of}}\def \foreignlanguage{USenglish}{in}1{\foreignlanguage{english}{in}}\def \foreignlanguage{USenglish}{ed##{}}1{\foreignlanguage{english}{ed##1{}}}\def \foreignlanguage{USenglish}{editor}1{\foreignlanguage{english}{editor}}\def \foreignlanguage{USenglish}{eds##{}}1{\foreignlanguage{english}{eds##1{}}}\def \foreignlanguage{USenglish}{editors}1{\foreignlanguage{english}{editors}}\def \foreignlanguage{USenglish}{vol##{}}1{\foreignlanguage{english}{vol##1{}}}\def \foreignlanguage{USenglish}{volume}1{\foreignlanguage{english}{volume}}\def \foreignlanguage{USenglish}{no##{}}1{\foreignlanguage{english}{no##1{}}}\def \foreignlanguage{USenglish}{number}1{\foreignlanguage{english}{number}}\def \foreignlanguage{USenglish}{ed##{}}1{\foreignlanguage{english}{ed##1{}}}\def \foreignlanguage{USenglish}{edition}1{\foreignlanguage{english}{edition}}\def \btxnumeralenglish {USenglish}{##}~\foreignlanguage{USenglish}{ed1{}}##2{\btxnumeralenglish {USenglish}{##1}~\foreignlanguage{USenglish}{ed##2{}}}\def \btxnumeralenglish {USenglish}{##}~\foreignlanguage{USenglish}{edition}##2{\btxnumeralenglish {USenglish}{##1}~\foreignlanguage{USenglish}{edition}}\def \foreignlanguage{USenglish}{ch##{}}1{\foreignlanguage{english}{ch##1{}}}\def \foreignlanguage{USenglish}{chapter}1{\foreignlanguage{english}{chapter}}\def \foreignlanguage{USenglish}{p##{}}1{\foreignlanguage{english}{p##1{}}}\def \foreignlanguage{USenglish}{page}1{\foreignlanguage{english}{page}}\def \foreignlanguage{USenglish}{pp##{}}1{\foreignlanguage{english}{pp##1{}}}\def \foreignlanguage{USenglish}{pages}1{\foreignlanguage{english}{pages}}\def \foreignlanguage{USenglish}{Master's thesis}1{\foreignlanguage{english}{Master's thesis}}\def \foreignlanguage{USenglish}{PhD thesis}1{\foreignlanguage{english}{PhD thesis}}\def \foreignlanguage{USenglish}{Techn.\ rep##{}}1{\foreignlanguage{english}{Techn.\ rep##1{}}}\def \foreignlanguage{USenglish}{Technical report}1{\foreignlanguage{english}{Technical report}}\def \foreignlanguage{USenglish}{January}1{\foreignlanguage{english}{January}}\def \foreignlanguage{USenglish}{February}1{\foreignlanguage{english}{February}}\def \foreignlanguage{USenglish}{March}1{\foreignlanguage{english}{March}}\def \foreignlanguage{USenglish}{April}1{\foreignlanguage{english}{April}}\def \foreignlanguage{USenglish}{May}1{\foreignlanguage{english}{May}}\def \foreignlanguage{USenglish}{June}1{\foreignlanguage{english}{June}}\def \foreignlanguage{USenglish}{July}1{\foreignlanguage{english}{July}}\def \foreignlanguage{USenglish}{August}1{\foreignlanguage{english}{August}}\def \foreignlanguage{USenglish}{September}1{\foreignlanguage{english}{September}}\def \foreignlanguage{USenglish}{October}1{\foreignlanguage{english}{October}}\def \foreignlanguage{USenglish}{November}1{\foreignlanguage{english}{November}}\def \foreignlanguage{USenglish}{December}1{\foreignlanguage{english}{December}}\def \foreignlanguage{USenglish}{Jan##{}}1{\foreignlanguage{english}{Jan##1{}}}\def \foreignlanguage{USenglish}{Feb##{}}1{\foreignlanguage{english}{Feb##1{}}}\def \foreignlanguage{USenglish}{Mar##{}}1{\foreignlanguage{english}{Mar##1{}}}\def \foreignlanguage{USenglish}{Apr##{}}1{\foreignlanguage{english}{Apr##1{}}}\def \foreignlanguage{USenglish}{May}1{\foreignlanguage{english}{May}}\def \foreignlanguage{USenglish}{June}1{\foreignlanguage{english}{June}}\def \foreignlanguage{USenglish}{July}1{\foreignlanguage{english}{July}}\def \foreignlanguage{USenglish}{Aug##{}}1{\foreignlanguage{english}{Aug##1{}}}\def \foreignlanguage{USenglish}{Sept##{}}1{\foreignlanguage{english}{Sept##1{}}}\def \foreignlanguage{USenglish}{Oct##{}}1{\foreignlanguage{english}{Oct##1{}}}\def \foreignlanguage{USenglish}{Nov##{}}1{\foreignlanguage{english}{Nov##1{}}}\def \foreignlanguage{USenglish}{Dec##{}}1{\foreignlanguage{english}{Dec##1{}}}\def \foreignlanguage{USenglish}{In}1{\foreignlanguage{english}{In}}\def \foreignlanguage{USenglish}{In}1{\foreignlanguage{english}{In}}\def \foreignlanguage{USenglish}{Ed##{}}1{\foreignlanguage{english}{Ed##1{}}}\def \foreignlanguage{USenglish}{Editor}1{\foreignlanguage{english}{Editor}}\def \foreignlanguage{USenglish}{Eds##{}}1{\foreignlanguage{english}{Eds##1{}}}\def \foreignlanguage{USenglish}{Editors}1{\foreignlanguage{english}{Editors}}\def \foreignlanguage{USenglish}{Vol##{}}1{\foreignlanguage{english}{Vol##1{}}}\def \foreignlanguage{USenglish}{Volume}1{\foreignlanguage{english}{Volume}}\def \foreignlanguage{USenglish}{No##{}}1{\foreignlanguage{english}{No##1{}}}\def \foreignlanguage{USenglish}{Number}1{\foreignlanguage{english}{Number}}\def \foreignlanguage{USenglish}{Ed##{}}1{\foreignlanguage{english}{Ed##1{}}}\def \foreignlanguage{USenglish}{Edition}1{\foreignlanguage{english}{Edition}}\def \btxnumeralenglish {USenglish}{##}~\foreignlanguage{USenglish}{Ed1{}}##2{\btxnumeralenglish {USenglish}{##1}~\foreignlanguage{USenglish}{Ed##2{}}}\def \btxnumeralenglish {USenglish}{##}~\foreignlanguage{USenglish}{Edition}##2{\btxnumeralenglish {USenglish}{##1}~\foreignlanguage{USenglish}{Edition}}\def \foreignlanguage{USenglish}{Ch##{}}1{\foreignlanguage{english}{Ch##1{}}}\def \foreignlanguage{USenglish}{Chapter}1{\foreignlanguage{english}{Chapter}}\def \foreignlanguage{USenglish}{P##{}}1{\foreignlanguage{english}{P##1{}}}\def \foreignlanguage{USenglish}{Page}1{\foreignlanguage{english}{Page}}\def \foreignlanguage{USenglish}{Pp##{}}1{\foreignlanguage{english}{Pp##1{}}}\def \foreignlanguage{USenglish}{Pages}1{\foreignlanguage{english}{Pages}}\def \foreignlanguage{USenglish}{Tech.\ Rep##{}}1{\foreignlanguage{english}{Tech.\ Rep##1{}}}\def \foreignlanguage{USenglish}{Technical Report}1{\foreignlanguage{english}{Technical Report}}\def \foreignlanguage{USenglish}{, visited on ##}1{\foreignlanguage{english}{, visited on ##1}}\def {}\def  { }\def \btxnumeralenglish {USenglish}{##}1{\btxnumeralenglish {english}{##1}}\def \btxnumeralenglish {USenglish}{##}1{\btxnumeralenglish {english}{##1}}\def ##/1##2{##1/##2}\def {\selectlanguage{USenglish}##}1{{\selectlanguage{english}##1}}{o}\@inpenc@test \bgroup \uccode `\~
+\uppercase {\egroup \def ~}{\IeC {o}}r \@inpenc@test \bgroup \uccode `\~b\uppercase {\egroup \def ~}efore using this key.
+
+! Undefined control sequence.
+\f@ncyorh ->{\headfont 
+                       \thepage }\strut 
+l.22 
+     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[3
+! Incomplete \iffalse; all text was ignored after line 22.
+<inserted text> 
+                \fi 
+l.22 
+     
+A forbidden control sequence occurred in skipped text.
+This kind of error happens when you say `\if...' and forget
+the matching `\fi'. I've inserted a `\fi'; this might work.
+
+! Incomplete \iffalse; all text was ignored after line 22.
+<inserted text> 
+                \fi 
+l.22 
+     
+A forbidden control sequence occurred in skipped text.
+This kind of error happens when you say `\if...' and forget
+the matching `\fi'. I've inserted a `\fi'; this might work.
+
+Runaway text?
+\@writefile{toc}{\contentsline {section}{\numberline {2.2}Gandhi\GenericError  \ETC.
+! Forbidden control sequence found while scanning text of \write.
+<inserted text> 
+                }
+l.22 
+     
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
+Runaway text?
+\@writefile{toc}{\contentsline {section}{\numberline {2.2}Gandhi\GenericError  \ETC.
+! Forbidden control sequence found while scanning text of \write.
+<inserted text> 
+                }
+l.22 
+     
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
+Runaway text?
+\@writefile{toc}{\contentsline {section}{\numberline {2.2}Gandhi\GenericError  \ETC.
+! Forbidden control sequence found while scanning text of \write.
+<inserted text> 
+                }
+l.22 
+     
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
+Runaway text?
+\@writefile{toc}{\contentsline {section}{\numberline {2.2}Gandhi\GenericError  \ETC.
+! Forbidden control sequence found while scanning text of \write.
+<inserted text> 
+                }
+l.22 
+     
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
+]
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `latin1'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.25 Apart from Gandhi’
+                       s fight against the Indian discrimination, "he was co...
+You need to provide a definition with \DeclareInputText 
+or \DeclareInputMath before using this key.
+
+
+LaTeX Warning: Citation `hoepken2001gewaltfreiheit' on page 4 undefined on input line 25.
+
+
+LaTeX Warning: Citation `hoepken2001gewaltfreiheit' on page 4 undefined on input line 25.
+
+
+LaTeX Warning: Citation `hoepken2001gewaltfreiheit' on page 4 undefined on input line 27.
+
+
+LaTeX Warning: Citation `hoepken2001gewaltfreiheit' on page 4 undefined on input line 27.
+
+
+LaTeX Warning: Citation `hoepken2001gewaltfreiheit' on page 4 undefined on input line 27.
+
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `latin1'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 ...h, the hospitals and the medicine. Gandhi’
+                                                  s wish of a self-governmen...
+You need to provide a definition with \DeclareInputText 
+or \DeclareInputMath before using this key.
+
+! Undefined control sequence.
+\f@ncyolh ->\headfont 
+                      \nouppercase {\rightmark }\strut 
+l.28 
+     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! Use of \\bibsenglish doesn't match its definition.
+\DeclareInputText #1#2->\def \reserved@a ##
+                                           1 ${}\def \reserved@b {#2}\ifcat ...
+l.28 
+     
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   {
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   {
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   {
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   {
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   {
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   {
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   }
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   2
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   2
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   }
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   2
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   {
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   {
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   {
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   {
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   {
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   {
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   {
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   {
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   {
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   {
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   {
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   {
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   {
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   {
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   {
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   {
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   {
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   {
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   }
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   2
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   2
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   }
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   2
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   {
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   {
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   {
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   {
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   }
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   }
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   }
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   /
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   2
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   2
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   }
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \@err@                                                                 .
+<to be read again> 
+                   1
+l.28 
+     
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Use of \\bibsenglish doesn't match its definition.
+<inserted text> m
+                 acro:->\\bibsenglish [{english}]
+l.28 
+     
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `latin1'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.28 
+     
+You need to provide a definition with \def 1 ${}\def \def USenglish{english}\def \foreignlanguage{USenglish}{et~al##{}}1{\foreignlanguage{english}{et~al##1{}}}\def \foreignlanguage{USenglish}{et~alii}1{\foreignlanguage{english}{et~alii}}\def \foreignlanguage{USenglish}{and}1{\foreignlanguage{english}{and}}\def \foreignlanguage{USenglish}{and}1{\foreignlanguage{english}{and}}\def ,1{,}\def \foreignlanguage{USenglish}{in}1{\foreignlanguage{english}{in}}\def \foreignlanguage{USenglish}{in}1{\foreignlanguage{english}{in}}\def \foreignlanguage{USenglish}{of}1{\foreignlanguage{english}{of}}\def \foreignlanguage{USenglish}{in}1{\foreignlanguage{english}{in}}\def \foreignlanguage{USenglish}{of}1{\foreignlanguage{english}{of}}\def \foreignlanguage{USenglish}{in}1{\foreignlanguage{english}{in}}\def \foreignlanguage{USenglish}{ed##{}}1{\foreignlanguage{english}{ed##1{}}}\def \foreignlanguage{USenglish}{editor}1{\foreignlanguage{english}{editor}}\def \foreignlanguage{USenglish}{eds##{}}1{\foreignlanguage{english}{eds##1{}}}\def \foreignlanguage{USenglish}{editors}1{\foreignlanguage{english}{editors}}\def \foreignlanguage{USenglish}{vol##{}}1{\foreignlanguage{english}{vol##1{}}}\def \foreignlanguage{USenglish}{volume}1{\foreignlanguage{english}{volume}}\def \foreignlanguage{USenglish}{no##{}}1{\foreignlanguage{english}{no##1{}}}\def \foreignlanguage{USenglish}{number}1{\foreignlanguage{english}{number}}\def \foreignlanguage{USenglish}{ed##{}}1{\foreignlanguage{english}{ed##1{}}}\def \foreignlanguage{USenglish}{edition}1{\foreignlanguage{english}{edition}}\def \btxnumeralenglish {USenglish}{##}~\foreignlanguage{USenglish}{ed1{}}##2{\btxnumeralenglish {USenglish}{##1}~\foreignlanguage{USenglish}{ed##2{}}}\def \btxnumeralenglish {USenglish}{##}~\foreignlanguage{USenglish}{edition}##2{\btxnumeralenglish {USenglish}{##1}~\foreignlanguage{USenglish}{edition}}\def \foreignlanguage{USenglish}{ch##{}}1{\foreignlanguage{english}{ch##1{}}}\def \foreignlanguage{USenglish}{chapter}1{\foreignlanguage{english}{chapter}}\def \foreignlanguage{USenglish}{p##{}}1{\foreignlanguage{english}{p##1{}}}\def \foreignlanguage{USenglish}{page}1{\foreignlanguage{english}{page}}\def \foreignlanguage{USenglish}{pp##{}}1{\foreignlanguage{english}{pp##1{}}}\def \foreignlanguage{USenglish}{pages}1{\foreignlanguage{english}{pages}}\def \foreignlanguage{USenglish}{Master's thesis}1{\foreignlanguage{english}{Master's thesis}}\def \foreignlanguage{USenglish}{PhD thesis}1{\foreignlanguage{english}{PhD thesis}}\def \foreignlanguage{USenglish}{Techn.\ rep##{}}1{\foreignlanguage{english}{Techn.\ rep##1{}}}\def \foreignlanguage{USenglish}{Technical report}1{\foreignlanguage{english}{Technical report}}\def \foreignlanguage{USenglish}{January}1{\foreignlanguage{english}{January}}\def \foreignlanguage{USenglish}{February}1{\foreignlanguage{english}{February}}\def \foreignlanguage{USenglish}{March}1{\foreignlanguage{english}{March}}\def \foreignlanguage{USenglish}{April}1{\foreignlanguage{english}{April}}\def \foreignlanguage{USenglish}{May}1{\foreignlanguage{english}{May}}\def \foreignlanguage{USenglish}{June}1{\foreignlanguage{english}{June}}\def \foreignlanguage{USenglish}{July}1{\foreignlanguage{english}{July}}\def \foreignlanguage{USenglish}{August}1{\foreignlanguage{english}{August}}\def \foreignlanguage{USenglish}{September}1{\foreignlanguage{english}{September}}\def \foreignlanguage{USenglish}{October}1{\foreignlanguage{english}{October}}\def \foreignlanguage{USenglish}{November}1{\foreignlanguage{english}{November}}\def \foreignlanguage{USenglish}{December}1{\foreignlanguage{english}{December}}\def \foreignlanguage{USenglish}{Jan##{}}1{\foreignlanguage{english}{Jan##1{}}}\def \foreignlanguage{USenglish}{Feb##{}}1{\foreignlanguage{english}{Feb##1{}}}\def \foreignlanguage{USenglish}{Mar##{}}1{\foreignlanguage{english}{Mar##1{}}}\def \foreignlanguage{USenglish}{Apr##{}}1{\foreignlanguage{english}{Apr##1{}}}\def \foreignlanguage{USenglish}{May}1{\foreignlanguage{english}{May}}\def \foreignlanguage{USenglish}{June}1{\foreignlanguage{english}{June}}\def \foreignlanguage{USenglish}{July}1{\foreignlanguage{english}{July}}\def \foreignlanguage{USenglish}{Aug##{}}1{\foreignlanguage{english}{Aug##1{}}}\def \foreignlanguage{USenglish}{Sept##{}}1{\foreignlanguage{english}{Sept##1{}}}\def \foreignlanguage{USenglish}{Oct##{}}1{\foreignlanguage{english}{Oct##1{}}}\def \foreignlanguage{USenglish}{Nov##{}}1{\foreignlanguage{english}{Nov##1{}}}\def \foreignlanguage{USenglish}{Dec##{}}1{\foreignlanguage{english}{Dec##1{}}}\def \foreignlanguage{USenglish}{In}1{\foreignlanguage{english}{In}}\def \foreignlanguage{USenglish}{In}1{\foreignlanguage{english}{In}}\def \foreignlanguage{USenglish}{Ed##{}}1{\foreignlanguage{english}{Ed##1{}}}\def \foreignlanguage{USenglish}{Editor}1{\foreignlanguage{english}{Editor}}\def \foreignlanguage{USenglish}{Eds##{}}1{\foreignlanguage{english}{Eds##1{}}}\def \foreignlanguage{USenglish}{Editors}1{\foreignlanguage{english}{Editors}}\def \foreignlanguage{USenglish}{Vol##{}}1{\foreignlanguage{english}{Vol##1{}}}\def \foreignlanguage{USenglish}{Volume}1{\foreignlanguage{english}{Volume}}\def \foreignlanguage{USenglish}{No##{}}1{\foreignlanguage{english}{No##1{}}}\def \foreignlanguage{USenglish}{Number}1{\foreignlanguage{english}{Number}}\def \foreignlanguage{USenglish}{Ed##{}}1{\foreignlanguage{english}{Ed##1{}}}\def \foreignlanguage{USenglish}{Edition}1{\foreignlanguage{english}{Edition}}\def \btxnumeralenglish {USenglish}{##}~\foreignlanguage{USenglish}{Ed1{}}##2{\btxnumeralenglish {USenglish}{##1}~\foreignlanguage{USenglish}{Ed##2{}}}\def \btxnumeralenglish {USenglish}{##}~\foreignlanguage{USenglish}{Edition}##2{\btxnumeralenglish {USenglish}{##1}~\foreignlanguage{USenglish}{Edition}}\def \foreignlanguage{USenglish}{Ch##{}}1{\foreignlanguage{english}{Ch##1{}}}\def \foreignlanguage{USenglish}{Chapter}1{\foreignlanguage{english}{Chapter}}\def \foreignlanguage{USenglish}{P##{}}1{\foreignlanguage{english}{P##1{}}}\def \foreignlanguage{USenglish}{Page}1{\foreignlanguage{english}{Page}}\def \foreignlanguage{USenglish}{Pp##{}}1{\foreignlanguage{english}{Pp##1{}}}\def \foreignlanguage{USenglish}{Pages}1{\foreignlanguage{english}{Pages}}\def \foreignlanguage{USenglish}{Tech.\ Rep##{}}1{\foreignlanguage{english}{Tech.\ Rep##1{}}}\def \foreignlanguage{USenglish}{Technical Report}1{\foreignlanguage{english}{Technical Report}}\def \foreignlanguage{USenglish}{, visited on ##}1{\foreignlanguage{english}{, visited on ##1}}\def {}\def  { }\def \btxnumeralenglish {USenglish}{##}1{\btxnumeralenglish {english}{##1}}\def \btxnumeralenglish {USenglish}{##}1{\btxnumeralenglish {english}{##1}}\def ##/1##2{##1/##2}\def {\selectlanguage{USenglish}##}1{{\selectlanguage{english}##1}}{o}\@inpenc@test \bgroup \uccode `\~
+\uppercase {\egroup \def ~}{\IeC {o}}r \@inpenc@test \bgroup \uccode `\~b\uppercase {\egroup \def ~}efore using this key.
+
+! Undefined control sequence.
+\f@ncyorh ->{\headfont 
+                       \thepage }\strut 
+l.28 
+     
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[4]
+
+LaTeX Warning: Citation `hoepken2001gewaltfreiheit' on page 5 undefined on input line 29.
+
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `latin1'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.29 .... \cite{hoepken2001gewaltfreiheit} Gandhi’
+                                                  s men passed the border, w...
+You need to provide a definition with \DeclareInputText 
+or \DeclareInputMath before using this key.
+
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `latin1'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.31 ...ear 1914 was an important year for Gandhi’
+                                                  s fight in South-Africa, b...
+You need to provide a definition with \DeclareInputText 
+or \DeclareInputMath before using this key.
+
+
+LaTeX Warning: Citation `hoepken2001gewaltfreiheit' on page 5 undefined on input line 31.
+
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `latin1'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 ...deal Conception of them Living in Ashrams}
+                                                  
+You need to provide a definition with \DeclareInputText 
+or \DeclareInputMath before using this key.
+
+) ("C:\Users\Lisa\Documents\PH\ph LuBu\englisch Modul 3\LisaGandhi\Thesis\GandhisSpirit/GandhisSpirit.tex"
+! Undefined control sequence.
+\f@ncyolh ->\headfont 
+                      \nouppercase {\rightmark }\strut 
+l.1 \chapter
+            {Gandhi's Spirit and Principles}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\f@ncyorh ->{\headfont 
+                       \thepage }\strut 
+l.1 \chapter
+            {Gandhi's Spirit and Principles}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[5
+! Use of \\flushsubcaptionlistentries doesn't match its definition.
+\DeclareInputText #1#2->\def \reserved@a ##
+                                           1 ${}\def \reserved@b {#2}\ifcat ...
+l.1 \chapter
+            {Gandhi's Spirit and Principles}
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+! Use of \\flushsubcaptionlistentries doesn't match its definition.
+<inserted text> m
+                 acro:->\\flushsubcaptionlistentries [{user}]
+l.1 \chapter
+            {Gandhi's Spirit and Principles}
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
 
 ]
 Chapter 3.
@@ -819,7 +2920,7 @@ l.1 \chapter{Gandhi's Spirit and Principles}
                                             
 I'm ignoring this; it doesn't match any \if.
 
-) (C:\Users\Lenovo\Documents\GitHub\LisaGandhi\Thesis\GandhiKing/GandhiKing.tex [3
+) ("C:\Users\Lisa\Documents\PH\ph LuBu\englisch Modul 3\LisaGandhi\Thesis\GandhiKing/GandhiKing.tex" [6
 
 ]
 Chapter 4.
@@ -854,74 +2955,28 @@ l.1 ...r{Gandhi’s Influence on Martin Luther King}
                                                   
 I'm ignoring this; it doesn't match any \if.
 
-) (C:\Users\Lenovo\Documents\GitHub\LisaGandhi\Thesis\Resume/Resume.tex [4
+) ("C:\Users\Lisa\Documents\PH\ph LuBu\englisch Modul 3\LisaGandhi\Thesis\Resume/Resume.tex" [7
 
- (C:\Users\Lenovo\Documents\GitHub\LisaGandhi\Thesis\Resume/Resume.tex)
-! Incomplete \iffalse; all text was ignored after line 1.
-<inserted text> 
-                \fi 
+
+! Use of \\flushsubcaptionlistentries doesn't match its definition.
+\DeclareInputText #1#2->\def \reserved@a ##
+                                           1 ${}\def \reserved@b {#2}\ifcat ...
 l.1 \chapter
             {Résumé}
-The file ended while I was skipping conditional text.
-This kind of error happens when you say `\if...' and forget
-the matching `\fi'. I've inserted a `\fi'; this might work.
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
 
-! Incomplete \iffalse; all text was ignored after line 1.
-<inserted text> 
-                \fi 
+! Use of \\flushsubcaptionlistentries doesn't match its definition.
+<inserted text> m
+                 acro:->\\flushsubcaptionlistentries [{user}]
 l.1 \chapter
             {Résumé}
-A forbidden control sequence occurred in skipped text.
-This kind of error happens when you say `\if...' and forget
-the matching `\fi'. I've inserted a `\fi'; this might work.
-
-Runaway text?
-\@writefile{toc}{\contentsline {chapter}{\numberline {4}Gandhi\GenericError  \ETC.
-! Forbidden control sequence found while scanning text of \write.
-<inserted text> 
-                }
-l.1 \chapter
-            {Résumé}
-I suspect you have forgotten a `}', causing me
-to read past where you wanted me to stop.
-I'll try to recover; but if the error is serious,
-you'd better type `E' or `X' now and fix your file.
-
-Runaway text?
-\@writefile{toc}{\contentsline {chapter}{\numberline {4}Gandhi\GenericError  \ETC.
-! Forbidden control sequence found while scanning text of \write.
-<inserted text> 
-                }
-l.1 \chapter
-            {Résumé}
-I suspect you have forgotten a `}', causing me
-to read past where you wanted me to stop.
-I'll try to recover; but if the error is serious,
-you'd better type `E' or `X' now and fix your file.
-
-Runaway text?
-\@writefile{toc}{\contentsline {chapter}{\numberline {4}Gandhi\GenericError  \ETC.
-! Forbidden control sequence found while scanning text of \write.
-<inserted text> 
-                }
-l.1 \chapter
-            {Résumé}
-I suspect you have forgotten a `}', causing me
-to read past where you wanted me to stop.
-I'll try to recover; but if the error is serious,
-you'd better type `E' or `X' now and fix your file.
-
-Runaway text?
-\@writefile{toc}{\contentsline {chapter}{\numberline {4}Gandhi\GenericError  \ETC.
-! Forbidden control sequence found while scanning text of \write.
-<inserted text> 
-                }
-l.1 \chapter
-            {Résumé}
-I suspect you have forgotten a `}', causing me
-to read past where you wanted me to stop.
-I'll try to recover; but if the error is serious,
-you'd better type `E' or `X' now and fix your file.
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
 
 ]
 Chapter 5.
@@ -943,9 +2998,9 @@ l.1 \chapter{Résumé}
                     
 I'm ignoring this; it doesn't match any \if.
 
-) [5
+) [8
 
-] (C:\Users\Lenovo\Documents\GitHub\LisaGandhi\Thesis\thesis.bbl
+] ("C:\Users\Lisa\Documents\PH\ph LuBu\englisch Modul 3\LisaGandhi\Thesis\thesis.bbl"
 babelbib: Using the BibTeX style's default font for `name'.
 babelbib: Using the BibTeX style's default font for `lastname'.
 babelbib: Using the BibTeX style's default font for `title'.
@@ -961,11 +3016,6 @@ LaTeX Font Info:    Try loading font information for T1+aett on input line 20.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ae\t1aett.fd"
 File: t1aett.fd 1997/11/16 Font definitions for T1/aett.
 )
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 20.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 20.
-
 Underfull \hbox (badness 2556) in paragraph at lines 17--22
 \T1/aett/m/n/12 com / quotes / quotes / m / mahatmagan100717 . html$[]\T1/aer/m/n/12 , ac-ces-sed Ja-nu-a-ry 4,
  []
@@ -980,31 +3030,40 @@ Underfull \hbox (badness 2735) in paragraph at lines 70--74
 []\T1/aer/m/n/12 Zitelmann, A.: \T1/aer/m/it/12 "Kei-ner dreht mich um": die Le-bens-ge-schich-te des
  []
 
-) [6
+)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 145.
+ [9
 
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 145.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 145.
- (C:\Users\Lenovo\Documents\GitHub\LisaGandhi\Thesis\thesis.aux (C:\Users\Lenovo\Documents\GitHub\LisaGandhi\Thesis\titlepage.aux))
+ ("C:\Users\Lisa\Documents\PH\ph LuBu\englisch Modul 3\LisaGandhi\Thesis\thesis.aux" ("C:\Users\Lisa\Documents\PH\ph LuBu\englisch Modul 3\LisaGandhi\Thesis\titlepage.aux"))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 145.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 145.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 22B9FFE5823D5204658AB9169273F330;383.
+(rerunfilecheck)             Checksum: 5159D4958052F384ADACB14B6E9EC13A;625.
+
+
+LaTeX Warning: There were undefined references.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 145.
  ) 
 Here is how much of TeX's memory you used:
- 17656 strings out of 493921
- 329200 string characters out of 3144874
- 386132 words of memory out of 3000000
- 20539 multiletter control sequences out of 15000+200000
- 32873 words of font info for 56 fonts, out of 3000000 for 9000
- 841 hyphenation exceptions out of 8191
- 62i,11n,56p,759b,665s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 16030 strings out of 494045
+ 285401 string characters out of 3145973
+ 357002 words of memory out of 3000000
+ 18918 multiletter control sequences out of 15000+200000
+ 36019 words of font info for 62 fonts, out of 3000000 for 9000
+ 715 hyphenation exceptions out of 8191
+ 63i,11n,57p,1805b,665s stack positions out of 5000i,500n,10000p,200000b,50000s
+pdfTeX warning (dest): name{cite.hungerb\374hler1983pioniere} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section} has been referenced but does not exist, replaced by a fixed one
+
 {C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on thesis.pdf (9 pages, 89432 bytes).
+Output written on thesis.pdf (11 pages, 107819 bytes).
 PDF statistics:
- 126 PDF objects out of 1000 (max. 8388607)
- 27 named destinations out of 1000 (max. 500000)
- 69 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 164 PDF objects out of 1000 (max. 8388607)
+ 35 named destinations out of 1000 (max. 500000)
+ 93 words of extra memory for PDF output out of 10000 (max. 10000000)
 
