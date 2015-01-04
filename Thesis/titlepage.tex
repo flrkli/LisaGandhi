@@ -1,0 +1,71 @@
+%% titlepage.tex
+%%
+
+% coordinates for the bg shape on the titlepage
+\newcommand{\diameter}{20}
+\newcommand{\xone}{-15}
+\newcommand{\xtwo}{160}
+\newcommand{\yone}{15}
+\newcommand{\ytwo}{-253}
+
+\begin{titlepage}
+% bg shape
+\begin{tikzpicture}[overlay]
+\draw[color=gray]  
+ 		 (\xone mm, \yone mm)
+  -- (\xtwo mm, \yone mm)
+ arc (90:0:\diameter pt) 
+  -- (\xtwo mm + \diameter pt , \ytwo mm) 
+	-- (\xone mm + \diameter pt , \ytwo mm)
+ arc (270:180:\diameter pt)
+	-- (\xone mm, \yone mm);
+\end{tikzpicture}
+
+	\begin{textblock}{10}[0,0](4,2.5)
+	 Seminar: TODO\\
+	 Wintersemester 2014/2015\\
+	 Institut für TODO\\
+	 Pädagogische Hochschule Ludwigsburg
+	
+		%\includegraphics[width=.3\textwidth]{logos/ph.png}
+	\end{textblock}
+	\changefont{phv}{m}{n}	% helvetica	
+	\vspace*{3.5cm}
+	\begin{center}
+		\Huge{\mytitle}
+		\vspace*{2cm}\\
+		\Large{
+			\iflanguage{english}{Term Paper of}			
+												  {Hausarbeit\\von}
+		}\\
+		\vspace*{1cm}
+		\Large{\myname}\\ 
+		\Large{Studienfächer: Deutsch, Englisch, Ethik}	\\
+		\Large{5. Semester} \\
+		\vspace*{1cm}
+		\Large{
+			\iflanguage{english}{}			
+			{}
+			\\
+			\myinstitute
+		}
+	\end{center}
+	\vspace*{1cm}
+\Large{
+\begin{center}
+\begin{tabular}[ht]{l c l}
+  % Gutachter sind die Professoren, die die Arbeit bewerten. 
+  \iflanguage{english}{Supervisor}{Betreuer}: \reviewerone\\
+  % Der zweite betreuende Mitarbeiter kann weggelassen werden. 
+\end{tabular}
+\end{center}
+}
+
+
+\vspace{2cm}
+\begin{center}
+\large{\iflanguage{english}{Submission Date}{Abgabedatum}: \ 21.03.2014  }
+\end{center}
+
+
+\end{titlepage}

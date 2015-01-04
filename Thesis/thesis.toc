@@ -1,0 +1,6 @@
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
+\contentsline {chapter}{\numberline {2}Gandhi's Life}{2}{chapter.2}
+\contentsline {chapter}{\numberline {3}Gandhi's Spirit and Principles}{3}{chapter.3}
+\contentsline {chapter}{\numberline {4}Gandhi\GenericError {(inputenc) }{Package inputenc Error: Keyboard character used is undefined\MessageBreak in inputencoding `latin1'}{See the inputenc package documentation for explanation.}{You need to provide a definition with \def \begingroup \endgroup \global \let \par \vfil \penalty -\@M \write \m@ne {}\vbox {}\penalty -\@Mi \global \let } } 
+\contentsline {chapter}{\numberline {5}R\'esum\'e}{5}{chapter.5}
+\contentsline {chapter}{Bibliography}{6}{section*.2}

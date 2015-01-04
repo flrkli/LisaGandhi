@@ -1,0 +1,75 @@
+\begin{thebibliography}{Bra15b}
+  \providebibliographyfont{name}{}%
+  \providebibliographyfont{lastname}{}%
+  \providebibliographyfont{title}{\emph}%
+  \providebibliographyfont{jtitle}{\btxtitlefont}%
+  \providebibliographyfont{etal}{\emph}%
+  \providebibliographyfont{journal}{}%
+  \providebibliographyfont{volume}{}%
+  \providebibliographyfont{ISBN}{\MakeUppercase}%
+  \providebibliographyfont{ISSN}{\MakeUppercase}%
+  \providebibliographyfont{url}{\url}%
+  \providebibliographyfont{numeral}{}%
+  \expandafter\btxselectlanguage\expandafter {\btxfallbacklanguage}
+
+\expandafter\btxselectlanguage\expandafter {\btxfallbacklanguage}
+\bibitem [{Bra15a}]{brainyquoteGandhiLoveLife}
+\btxnamefont {\btxlastnamefont {BrainyQuote.com}}\btxauthorcolon\ \btxtitlefont
+  {\btxifchangecase {Mahatma gandhi}{Mahatma Gandhi}}, 2015.
+\newblock {\latintext
+  \btxurlfont{http://www.brainyquote.com/quotes/quotes/m/mahatmagan100717.html}},
+  accessed January 4, 2015.
+
+\bibitem [{Bra15b}]{brainyquoteGandhiNonViolance}
+\btxnamefont {\btxlastnamefont {BrainyQuote.com}}\btxauthorcolon\ \btxtitlefont
+  {\btxifchangecase {Mahatma gandhi}{Mahatma Gandhi}}, 2015.
+\newblock {\latintext
+  \btxurlfont{http://www.brainyquote.com/quotes/quotes/m/mahatmagan166284.html}},
+  accessed January 4, 2015.
+
+\bibitem [{Die08}]{dietrich2008martin}
+\btxnamefont {\btxlastnamefont {Dietrich}, T.}\btxauthorcolon\ \btxtitlefont
+  {Martin Luther King}.
+\newblock Profile (UTB). \btxpublisherfont {UTB GmbH}, 2008\ifbtxprintISBN {,
+  \mbox{\btxISBN~\btxISBNfont {9783825230234}}}.
+
+\bibitem [{Gan30}]{gandhi1930}
+\btxnamefont {\btxlastnamefont {Gandhi}, M.}\btxauthorcolon\ \btxtitlefont
+  {Mein Leben}.
+\newblock \btxpublisherfont {Insel-Verlag}, 1930.
+
+\bibitem [{HJT83}]{hungerbühler1983pioniere}
+\btxnamefont {\btxlastnamefont {Hungerb{\"u}hler}, E.}, \btxnamefont {W.
+  \btxlastnamefont {Jany}}\btxandcomma {} \btxandlong {}\ \btxnamefont {L.
+  \btxlastnamefont {Tews}}\btxauthorcolon\ \btxtitlefont {Pioniere f{\"u}r den
+  Frieden}.
+\newblock \btxpublisherfont {Ueberreuter}, 1983\ifbtxprintISBN {,
+  \mbox{\btxISBN~\btxISBNfont {9783800031887}}}.
+
+\bibitem [{H{\"o}p01}]{höpken2001gewaltfreiheit}
+\btxnamefont {\btxlastnamefont {H{\"o}pken}, S.}\btxauthorcolon\ \btxtitlefont
+  {Gewaltfreiheit und Dialog: die Erziehungskonzeption Paulo Freires und
+  Mahatma Gandhis}.
+\newblock P{\"a}dagogische Reihe. \btxpublisherfont {Verlag Dialogische
+  Erziehung}, 2001\ifbtxprintISBN {, \mbox{\btxISBN~\btxISBNfont
+  {9783934129139}}}.
+
+\bibitem [{Rot03}]{rothermund2003gandhi}
+\btxnamefont {\btxlastnamefont {Rothermund}, D.}\btxauthorcolon\ \btxtitlefont
+  {Gandhi: der gewaltlose Revolution{\"a}r}.
+\newblock Beck Reihe. \btxpublisherfont {Beck}, 2003\ifbtxprintISBN {,
+  \mbox{\btxISBN~\btxISBNfont {9783406480225}}}.
+
+\bibitem [{sch01}]{schoolscout2001}
+\btxtitlefont {Mahatma Gandhi}.
+\newblock \btxpublisherfont {School Scout}, 2001.
+\newblock {\latintext
+  \btxurlfont{http://www4.onleihe.de/lb/frontend/mediaInfo,0-0-34980596-100-0-0-0-0-0-0-0.html}}.
+
+\bibitem [{Zit03}]{zitelmann2003keiner}
+\btxnamefont {\btxlastnamefont {Zitelmann}, A.}\btxauthorcolon\ \btxtitlefont
+  {"Keiner dreht mich um": die Lebensgeschichte des Martin Luther King}.
+\newblock Gulliver-Taschenbuch. \btxpublisherfont {Beltz \& Gelberg},
+  2003\ifbtxprintISBN {, \mbox{\btxISBN~\btxISBNfont {9783407789013}}}.
+
+\end{thebibliography}
